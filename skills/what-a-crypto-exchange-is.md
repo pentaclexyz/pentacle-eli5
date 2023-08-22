@@ -8,4 +8,4 @@ There are hundreds, if not thousands, of coins that are currently on the market.
 
 Some examples of centralised crypto exchanges are Coinbase, Binance, FTX and Kraken. While all of these are fairly similar, there are advantages and disadvantages inherent to each one. This is primarily due to the rambunctious nature of the crypto markets, as certain investing styles are more suitable to different exchanges. 
 
-For example, FTX offers leverage trading, while Coinbase offers both a simple buy/sell interface, as well as market and limit orders. While centralised exchanges might be best for most users, there are also decentralised exchanges for those who wish to dive a little bit deeper into crypto. Some examples of these are Uniswap, Sushiswap and 1inch. 
+For example, Bybit offers leverage trading, while Coinbase offers both a simple buy/sell interface, as well as market and limit orders. While centralised exchanges might be best for most users, there are also decentralised exchanges for those who wish to dive a little bit deeper into crypto. Some examples of these are Uniswap, Sushiswap and 1inch. 
