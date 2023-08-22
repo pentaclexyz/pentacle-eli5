@@ -1,0 +1,1 @@
+Gabriel Haines is a public figure who creates both short and long form content to educate people about the cryptocurrency space

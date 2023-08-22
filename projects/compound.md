@@ -1,0 +1,1 @@
+Compound is a decentralized autonomous interest rate protocol. It allows people to lend and borrow their cryptocurrencies, and establishes money markets by algorithmically setting interest rates based on supply and demand of various assets. Its native token is COMP, allowing holders to propose and vote on changes made to the protocol.

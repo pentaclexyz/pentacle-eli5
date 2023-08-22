@@ -1,0 +1,1 @@
+David is the co-head of Kronos Ventures. Previously, David spent 15+ years in private equity and investment banking at firms including Lone Star Funds, Lazard and Perella Weinberg Partners.

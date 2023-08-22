@@ -1,0 +1,1 @@
+Includes scaffold-etc, a forkable Ethereum dev stack focused on fast product iterations, eth.build an educational sandbox for building on web3. Visually understand how Ethereum works by doing

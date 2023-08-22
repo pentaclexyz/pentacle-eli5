@@ -1,0 +1,1 @@
+superpowers for the Farcaster protocol

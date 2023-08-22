@@ -1,0 +1,1 @@
+Investment professional @WOO_Ventures @ResearchKronos

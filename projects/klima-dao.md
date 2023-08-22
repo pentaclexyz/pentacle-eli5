@@ -1,0 +1,1 @@
+Fight climate change and earn rewards with KLIMA, a digital currency backed by real carbon assets.

@@ -1,0 +1,9 @@
+Privacy and anonymity have always been a large part of the cypherphunk ethos. For many of the earliest Bitcoin adopters, fortunes beyond their wildest dreams were acquired - which soon led to a problem. If one were to suddenly gain a vast sum of money, how do you keep things under the radar? As the years went on, crypto carved a niche for itself as a “nerdy” sort of digital money for those who were good at computers. Many didn’t see a need for it or viewed it as a scam, even as the price of Bitcoin and other alt coins continued to rise.
+
+Since then, crypto has found its way into the general public, but many still aren’t interested. Many see it as harmful to the environment, due to misconceptions of energy consumption or the supposed environmental impact NFTs cause. So what is one to do if they wish to discuss crypto but don’t want to be condemned for it? Enter the alt account.
+
+On the social media application Twitter, many might see celebrities and well known crypto founders discussing the currencies, but often other accounts - ones that are a little bit different. They may have a strange name - one that isn’t theirs - or a profile picture that is anything but a LinkedIn headshot. These are known as “alt accounts,” Twitter accounts for crypto lovers that are anonymous.
+
+On Crypto Twitter, a vast majority of accounts are anonymous, something the inhabitants don’t seem to pay attention to. It is a field dominated not by status or “who you know” but by what you know and how you market yourself. If you wish to join this unique and burgeoning new way to interact with the community, simply create a new Twitter profile and leave out your personal information - it’s that simple. 
+
+Having an alt account is a great way to interact online freely with like minded individuals, all while retaining privacy if you wish to do so.

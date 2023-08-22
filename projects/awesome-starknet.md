@@ -1,0 +1,1 @@
+A curated list of awesome StarkNet resources

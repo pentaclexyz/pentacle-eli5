@@ -1,0 +1,1 @@
+Hedeer El Showk is Data Engineering Lead at Nascent, designing and building our data and systems architecture. He has over a decade of experience as a risk manager and quantitative developer with large alternative asset managers.

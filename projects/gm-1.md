@@ -1,0 +1,1 @@
+Our immediate goal is to make creating and managing a DAO or crypto-asset community as easy as spinning up a subreddit. Longer-term, we hope to build the first crypto-native, decentralized, and user-owned social network.

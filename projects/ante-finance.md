@@ -1,0 +1,1 @@
+Stake tests to show faith in the underlying smart contracts and potentially earn rewards, or challenge tests you think will fail

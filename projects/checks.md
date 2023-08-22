@@ -1,0 +1,1 @@
+Checks is an infinite canvas for expression that is designed to challenge the concept of ownership and authorship in the age of the internet.

@@ -1,0 +1,1 @@
+Rarible is a NFT exchange platform that allows users to buy and sell NFTs on the ethereum network.

@@ -1,0 +1,1 @@
+Securing wealth beyond lifetimes @everlasting_io; @EHFNewZealand Fellow; @EnzymeFinance Technical Council; Formerly @BlockchainLabNZ @TechemyCapital

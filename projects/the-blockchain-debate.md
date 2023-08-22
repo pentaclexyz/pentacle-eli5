@@ -1,0 +1,1 @@
+Whether you’re a builder or investor, whether you consider yourself blockchain-savvy or blockchain-curious, if you want to hear all arguments before predicting the future of blockchain, The Blockchain Debate is the podcast is for you. Follow their twitter at @blockdebate. Host: Richard Yan (@gentso09). See you soon! Consensus optional, proof of thought required.

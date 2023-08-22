@@ -1,0 +1,1 @@
+Aave is a decentralized money market protocol where people can lend out their assets to earn interest, or borrow various cryptocurrencies against their deposited collateral. The protocol has a native token AAVE, which is used by its community to make collective decisions on the direction of the protocol.

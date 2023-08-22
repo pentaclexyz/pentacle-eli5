@@ -1,0 +1,1 @@
+Fixed rate borrowing & lending protocol with $650M+ in total lending volume. 

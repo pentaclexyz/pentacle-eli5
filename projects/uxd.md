@@ -1,0 +1,1 @@
+Fully collateralized decentralized stablecoin backed by Asset Liability Management Module. Built on Solana

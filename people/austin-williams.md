@@ -1,0 +1,1 @@
+Security & MEV research. Crypto nerd. Formerly OpenZeppelin, Augur, OpenBazaar, Flashbots.

@@ -1,0 +1,1 @@
+Verified web3 talent platform and search for credentialed hired

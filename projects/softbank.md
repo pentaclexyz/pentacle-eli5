@@ -1,0 +1,1 @@
+Softbank is a Japanese multinational conglomerate holding company headquartered in Minato, Tokyo which focuses on investment management. The Group primarily invests in companies operating in technology, energy, and financial sectors.

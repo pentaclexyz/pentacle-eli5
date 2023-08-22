@@ -1,0 +1,2 @@
+PILLS transforms Ethereum into an on-chain RPG set in a fictional universe called Chainspace.
+An interoperable and composable game universe existing on-chain, blending together interactive gameplay and community storytelling. In PILLS, the players create and shape the gameworld.

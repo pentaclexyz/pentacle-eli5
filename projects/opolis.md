@@ -1,0 +1,1 @@
+Opolis is a next-generation Employment Cooperative offering high-quality, affordable employment benefits and shared services to independent contractors, freelancers, digital nomads, solopreneurs and sole-practitioners.

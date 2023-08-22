@@ -1,0 +1,1 @@
+Allow people to buy crypto without leaving your dApp or wallet. Ramp’s non-custodial, full-stack payment infrastructure accelerates adoption and builds trust for its partners.

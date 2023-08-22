@@ -1,0 +1,1 @@
+Originally independent security researchers, our team has a proven track record in both traditional security and Web3. With reports against popular protocols like Saber, Jet, Switchboard, and more, we bring a wealth of experience to our audits.

@@ -1,0 +1,1 @@
+Our goal is simple: to grow Web3 to 1 billion users by 2025. To do so, we're uniting the top builders and industry experts within the space.

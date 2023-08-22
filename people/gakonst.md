@@ -1,0 +1,1 @@
+very greek accent. cto & research partner @paradigm. optimist and rustacean 🦀 // we're hiring - dm if you wanna work together on hard internal eng problems

@@ -1,0 +1,1 @@
+A for-profit metaverse DAO. NEON will help support and build out the vision of the metaverse. The future of the internet is infinite-scalable virtual worlds with their own architecture, avatars, events and more—all supporting their own economy and digital identities. NEON is a collective to support this growing ecosystem.

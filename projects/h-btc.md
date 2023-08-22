@@ -1,0 +1,1 @@
+Launched by Huobi Global and deployed on the Ethereum network, Huobi BTC (HBTC)token aims to promote the growth of the decentralized marketplace by injecting Bitcoin (BTC), the largest and most liquid asset, into the decentralized finance (DeFi) eco-system. 

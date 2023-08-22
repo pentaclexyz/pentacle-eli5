@@ -1,0 +1,1 @@
+A DeFi marketplace for Investable Trades. Take part in the pioneering concept of Single Trade Vaults. Short-duration, non-custodial, active asset management vaults that are dedicated to one trade.

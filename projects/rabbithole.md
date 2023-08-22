@@ -1,0 +1,1 @@
+Earn crypto by using the latest decentralized apps. Become an early adopter of new projects, and earn crypto as a reward.

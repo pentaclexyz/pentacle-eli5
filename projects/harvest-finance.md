@@ -1,0 +1,1 @@
+Harvest is an international cooperative of humble farmers pooling resources together in order to earn DeFi yields. When farmers deposit, Harvest automatically farms the highest yields with these deposits using the latest farming techniques.

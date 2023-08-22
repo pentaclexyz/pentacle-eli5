@@ -1,0 +1,1 @@
+Girts previously worked as a Devops Engineer in various companies and industries. Starting from enterprise IT and ending with online gambling platforms.

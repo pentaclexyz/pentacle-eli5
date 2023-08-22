@@ -1,0 +1,1 @@
+Slingshot is a DeFi application that lets you buy, sell, and swap over 40k cryptocurrencies at the best prices, with 0% swap fees. Slingshot combines the performance and ease of centralized exchanges, with the openness and transparency of decentralized exchanges.

@@ -1,0 +1,1 @@
+This is an independent project. It exists thanks to the active members of the cryptocurrency community.

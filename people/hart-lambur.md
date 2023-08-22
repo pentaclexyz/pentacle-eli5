@@ -1,0 +1,1 @@
+DeFi + web3 + financial engineering. Cofounder @AcrossProtocol @UMAprotocol; investor @robotventures; prev @GoldmanSachs, CS @Columbia, 🇨🇦

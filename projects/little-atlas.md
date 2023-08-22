@@ -1,0 +1,1 @@
+Little Atlas is a web3 company on a mission to help our society form deep and meaningful connections. We build products that bridge the gap between web3 and the physical world.

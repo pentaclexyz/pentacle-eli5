@@ -1,0 +1,1 @@
+HASH is a generative art collection where each piece represents an Ethereum transaction. Generative art fueled by tx metadata.

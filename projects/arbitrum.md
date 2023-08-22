@@ -1,0 +1,1 @@
+Next generation layer 2 for Ethereum dApps. Use your favorite tools and scale your dApp at the lowest cost. Arbitrum is a suite of Ethereum scaling solutions that enables high-throughput, low cost smart contracts while remaining trustlessly secure

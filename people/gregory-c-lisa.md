@@ -1,0 +1,1 @@
+Chief Legal Officer, @delv_tech (f/k/a Element). Formerly FinCEN, @CFPB, DOJ prosecutor. Former partner & now senior counsel at Hogan Lovells. Views mine.

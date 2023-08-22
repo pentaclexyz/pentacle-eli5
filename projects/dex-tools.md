@@ -1,0 +1,1 @@
+Search for new pools, add or remove liquidity in a pair, find the best gems and avoid the scams. Follow the best pairs through this tool with real-time graphics and transactions, add your pairs to favorites and much more. Follow the most relevant swaps. View and interact with multiple pairs on a single screen. Save, track and research wallets. 

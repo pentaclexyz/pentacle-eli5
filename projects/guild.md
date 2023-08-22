@@ -1,0 +1,1 @@
+Guild is a place for Web3 guilds. They provide automated membership management for commuities and hopes to make managing and joining a DAO easier.

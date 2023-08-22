@@ -1,0 +1,1 @@
+Redacted Remilio Babies is a collection of 10,000 neochibi pfpNFT's evolving the proven Milady Maker paradigm with the introduction of young J.I.T. energy, schizophrenic reactionary aesthetics, and digital sales terrorism. We are #REMILIONAIREs.

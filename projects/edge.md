@@ -1,0 +1,1 @@
+Edge is a multi-asset supported cryptocurrency wallet that enables users to safely store their assets on a single platform. Edge also offers the ability for users to swap assets between eachother as well as onboard fiat into the cryptocurrency ecosystem.

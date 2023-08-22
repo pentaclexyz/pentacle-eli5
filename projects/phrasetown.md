@@ -1,0 +1,1 @@
+Phrasetown is a Farcaster client in the browser. Great for people who love Farcaster, who prefer desktop over mobile, but aren't in the Apple Ecosystem.

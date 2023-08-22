@@ -1,0 +1,11 @@
+Because the cryptocurrency markets are still so new, many of these assets aren’t able to be traded just anywhere. In the United States, for instance, those who wish to trade must use the US versions of exchanges like Binance and FTX due to legal reasons. Since crypto assets aren’t registered securities, there are often loopholes to jump through for US users to even engage with them. For the crypto-native, a virtual private network (VPN) is something you need in your toolbox. Here’s how it works. 
+
+Let’s say you’re Alice who lives in New York. One of your Twitter followers recently told you about an exciting new cryptocurrency, and you’re excited to purchase it. You eagerly hop onto FTX US, only to realize it isn’t available. What are you to do?
+
+Instead of missing the opportunity to buy the next Bitcoin, you decide a VPN is the best choice of action. Essentially, a VPN disguises your IP address (the series of digits that displays where your device is being used) in order to make it appear that you’re somewhere you aren’t. Some popular VPNs are Nord, Express and Proton - all of which can provide you with different levels of accessibility and anonymity. 
+
+While using a VPN, you can choose to appear as if you’re actually using the internet from Europe or Asia! As long as the location you choose allows for free trading of all cryptocurrencies, you’re good to go. While this is just one simple example of a loophole, many use VPNs to access novel DeFi protocols that aren’t often available in the US. 
+
+Typically, the process is as easy as creating an account on the VPN site, downloading the software (most quality VPNs cost money), choosing your location and running the software. It’s as easy as that. 
+
+Maybe one day the US will allow for increased exposure to all crypto assets, but until then, those who wish to trade freely must jump through loopholes like this. VPNs are legal in the US, but sites have the right to block your access to them if they find out you’re using a VPN. There are more ways to avoid this from happening, but these basic steps will help you get on the right track. 

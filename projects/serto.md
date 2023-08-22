@@ -1,0 +1,1 @@
+Serto is decentralized identity platform aiming to make it easy for everyone to exchange data in a trusted, private and scalable way. Create decentralized identifiers (DIDs), and issue and validate verifiable credentials (VCs). Search and discover DIDs and VCs

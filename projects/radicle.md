@@ -1,0 +1,1 @@
+Radicle is a peer-to-peer stack for building software together. For unstoppable, permissionless, decentralized open-source development. Forget platforms. Easily share your code without relying on a third party. No central servers, no censorship. Built on Git, backed by public-key crypto

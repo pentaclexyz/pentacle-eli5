@@ -1,0 +1,1 @@
+Smart Contract platform secured by Cosmos Hub

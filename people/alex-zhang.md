@@ -1,0 +1,1 @@
+mayor @fwbtweets // organizer of people, aspiring Jane Jacobs of DAOs // @summit @therealdaojones @pleasrdao @seedclubhq @joinrepublic

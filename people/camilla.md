@@ -1,0 +1,1 @@
+onboarding brands to web3 @Mojito_NFT /founding team @Serotonin_HQ /member @PleasrDAO @unicorndao_xxx /ex-@Bridgewater, ex-@Consensys (crypto class of '13)

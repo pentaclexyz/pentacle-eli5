@@ -1,0 +1,1 @@
+Eth2.0 core dev at Lodestar @chainsafeth | merge coordinator @gnosischain | og dev at @dappnode #Ethereum

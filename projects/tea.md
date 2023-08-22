@@ -1,0 +1,1 @@
+Like its predecessor, brew, tea is the base of the developer stack–seated beneath the tools that build the internet. Unlike its predecessor, tea leverages blockchain and web3 technology to eliminate anonymity and deliver compensation.

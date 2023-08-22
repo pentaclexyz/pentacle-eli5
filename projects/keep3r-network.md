@@ -1,0 +1,1 @@
+The Keep3r Network is a decentralized network for projects that need external devops, and for external teams to find keeper jobs.

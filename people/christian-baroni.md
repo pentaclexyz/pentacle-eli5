@@ -1,0 +1,1 @@
+Designer who writes a bit of code. Co-founder @rainbowdotme, previously @stripe @Microsoft.

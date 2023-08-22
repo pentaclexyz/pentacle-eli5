@@ -1,0 +1,1 @@
+Trustless and secure crypto custody for everyone

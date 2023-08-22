@@ -1,0 +1,1 @@
+The daily lives of millions of people will be moving into Web3. Through this adoption, we will see companies and business models emerge that could not exist without tokenization in the same way that Web2 companies could not exist without smartphones or the internet. 

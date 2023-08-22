@@ -1,0 +1,1 @@
+Aevo is a a next-generation options exchange built from the ground-up for pro traders featuring high-performance orderbook, a robust margining system, and Daily, Weekly, Monthly and Quarterly options

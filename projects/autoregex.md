@@ -1,0 +1,1 @@
+this website uses artificial intelligence to automate this task by translating back and forth between English and RegEx

@@ -1,0 +1,1 @@
+eWives for the Lonely Anon /// funding a survival horror video game in web3 gaming with NFT integration ❇️🎮 ଘ(੭ˊᵕˋ)੭

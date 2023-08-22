@@ -1,0 +1,1 @@
+Theresa Regenstreif leads Finance, Operations, and People at Nascent.

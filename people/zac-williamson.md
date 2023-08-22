@@ -1,0 +1,1 @@
+CEO @aztecnetwork. Cryptographer, software engineer, ex-particle physicist. Building privacy-preserving trustless permissionless buzzword Plonk jargon.

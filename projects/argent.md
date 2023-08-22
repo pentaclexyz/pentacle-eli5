@@ -1,0 +1,1 @@
+Buy, earn, stake and trade on Ethereum Layer 2 with low fees & bulletproof security.

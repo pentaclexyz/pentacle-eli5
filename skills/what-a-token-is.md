@@ -1,0 +1,13 @@
+The cryptocurrency market is filled with thousands (if not tens of thousands) of coins. With everything from dog coins to lending protocol based coins, there’s something for every kind of investor. These coins can often be referred to as tokens, but there are some major differences between the two concepts - let’s dive in. 
+
+While a coin is something that is often used as a medium of exchange. Whether this be a peer-to-peer (p2p) transaction at a coffee shop or something more complicated like receiving a paycheck, currencies are everywhere and a major part of our lives. Bitcoin - the most renowned cryptocurrency - was created as a solution for digital p2p payments. While this hasn’t caught on a global scale (partially due to the vast innovations in crypto as a whole), Bitcoin was able to provide a new way to exchange money. Other examples of coins include Ethereum, Litecoin and Monero, each possessing different functionality and capabilities. 
+
+A token is something that’s a little different, with the definition changing over time as crypto has evolved. Primarily, a token is an asset that has been built overtop an existing blockchain. Tokens can be used with decentralized apps (dApps) like Uniswap or Compound and their respective tokens, UNI and COMP. These tokens possess unique functionality, some of these being governance and yield generation. 
+
+Where coins are sometimes limited in functionality - see Dogecoin - a token is something much more interesting or engaging to the web3 native. The burgeoning landscape of dApps has changed finance forever, sparking the movement known as decentralized finance (commonly referred to as DeFi). There are even non-fungible tokens (NFTs) which represent digital ownership on the blockchain - whether this be something as simple as a picture of your dog or a new song from an artist. Hopefully you’re seeing the vast differences between these assets and all that is possible with the innovations in crypto. 
+
+Despite the relative youth of the crypto space as a whole, recent DeFi protocols have been able to change the perception of what tokens can do. Just look at the recent shift in interest towards Curve Finance, thanks to their vote escrow tokenomics which provide significant value to token holders. 
+
+Tokens can even serve as in-game currencies, especially in games like DeFi Kingdoms and The Sandbox. As more users flock to crypto to experience these play-to-earn games, expect more unique token uses in crypto. 
+
+While most of us might be in crypto to see coins go up in price, there is no shortage of impressive tokens to get your hands on in the meantime. So get out there and interact with different ecosystems - you might be surprised with all the unique tokens you find! 

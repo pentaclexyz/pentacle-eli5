@@ -1,0 +1,1 @@
+Shitposter: @not3lau_capital | Founder: The Daily Ape | Author: How To DeFi https://t.co/kj83n2jrIg

@@ -1,0 +1,1 @@
+Browser-based IDE with integrated compiler and Solidity runtime environment without server-side components.

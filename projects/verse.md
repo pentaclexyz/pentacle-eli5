@@ -1,0 +1,3 @@
+Bitcoin.com’s multichain Verse DEX is an automated market maker-based decentralized exchange that aims to bring everyone permissionless and non-custodial trading access, with a special focus on newcomers to DeFi. Safely and securely swap crypto with low fees, including cross-chain trading between BTC, BCH, ETH and more. Anyone can also earn yield by providing liquidity to the DEX.
+
+Verse DEX is derived from the battle tested Uniswap V2 contract, and has been audited by a third-party smart contract auditor. Verse DEX is available on Ethereum and SmartBCH blockchains, but is continuously expanding onto low-fee, high transaction speed blockchains.

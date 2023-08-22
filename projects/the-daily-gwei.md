@@ -1,0 +1,1 @@
+The Daily Gwei is a daily newsletter created by influencer Anthony Sassano about the Ethereum ecosystem.

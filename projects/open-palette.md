@@ -1,0 +1,1 @@
+An OpenPalette is a randomized color palette generated on the ethereum blockchain. 

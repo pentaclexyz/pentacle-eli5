@@ -1,0 +1,1 @@
+Catholic, husband, father; ENS (DAO delegate, former core team), SIWE (creator)

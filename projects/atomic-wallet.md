@@ -1,0 +1,1 @@
+Secure cryptocurrency wallet app for desktop and mobile platforms to store Bitcoin, Ethereum & over 500 other tokens. Download Atomic wallet to buy, exchange & stake crypto.

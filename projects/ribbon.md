@@ -1,0 +1,1 @@
+Ribbon Finance is a suite of DeFi protocols that help users access crypto structured products. It combines derivatives and fixed income to improve a portfolio's risk-return profile.

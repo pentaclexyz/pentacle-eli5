@@ -1,0 +1,1 @@
+Loopring Wallet with native zkRollup layer2 integration. Now you can transact directly on Loopring layer2, faster and cheaper.

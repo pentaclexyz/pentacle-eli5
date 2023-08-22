@@ -1,0 +1,1 @@
+CryptoJobs is the #1 website for blockchain jobs. We believe the emergence of blockchain technology and decentralized applications will change the world as we know it, and it’s already happening. We’re on a mission to connect talented individuals to the best blockchain projects, to accelerate the advent of a more decentralized world.

@@ -1,0 +1,1 @@
+Impermanent loss is one of the main reasons investors lose funds. Use Defiyield's IL calculator to tackle the issue.

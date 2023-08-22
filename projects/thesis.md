@@ -1,0 +1,1 @@
+Thesis believes in your right to choose; to personally determine membership in our culture and centralized institutions. We build and fund products and protocols in cryptocurrency and decentralized technology.

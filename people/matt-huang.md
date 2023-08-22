@@ -1,0 +1,1 @@
+Co-Founder @Paradigm. Previously, Partner @Sequoia. Interested in positive feedback loops.

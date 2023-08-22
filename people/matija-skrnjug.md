@@ -1,0 +1,1 @@
+Matija is a crypto investor and an entrepreneur who worked in the real sector of the economy for the greater part of his life. He joined the crypto space in 2017 and has been an active member of the crypto community ever since.

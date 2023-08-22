@@ -1,0 +1,3 @@
+Pirex is a product by Redacted Cartel which creates liquid wrappers that allow for auto-compounding and the tokenisation of future yield/vote events. 
+
+In addition, Pirex will also include an  ecosystem of applications on top of Pirex liquid wrappers which further enhance the utility of governance tokens for users, enable novel utility and provide yield opportunities which are exclusive to those using Pirex wrappers.

@@ -1,0 +1,1 @@
+Euler is a non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.

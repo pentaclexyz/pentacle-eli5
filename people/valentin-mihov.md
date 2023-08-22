@@ -1,0 +1,1 @@
+mihov.eth ~ Yield farming and angel investing ~ Crypto multi-cycler. @10b57e6da0 ~ co-founder of @daedalus_angels & @finexify ~ Shadowy super-coder👨‍💻

@@ -1,0 +1,1 @@
+An EVM & Solidity bootcamp, powered by the Artemis network

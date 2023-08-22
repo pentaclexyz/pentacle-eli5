@@ -1,0 +1,1 @@
+A book written for beginners with step-by-step guides on how to buy, sell, store, and mint NFTs.

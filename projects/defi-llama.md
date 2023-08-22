@@ -1,0 +1,1 @@
+DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Their data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols. Their focus is on accurate data and transparent methodology.

@@ -1,0 +1,1 @@
+DeFiance Capital is one of the most active and recognised Web 3 & Crypto focused investment firm globally with many successful investments across DeFi, Web3 gaming and infrastructure space.

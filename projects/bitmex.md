@@ -1,0 +1,1 @@
+Our industry never stops moving. Our mission is to become one of the world’s largest regulated crypto derivatives exchanges and a powerful catalyst for change in the financial services industry.

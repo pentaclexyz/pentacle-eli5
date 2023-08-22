@@ -1,0 +1,1 @@
+The most trusted platform to manage digital assets on Ethereum. Enter the Multisig. Safe is a smart contract wallet running on Ethereum that requires a minimum number of people to approve a transaction before it can occur 

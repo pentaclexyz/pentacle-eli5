@@ -1,0 +1,1 @@
+Allbridge is a simple, modern, and reliable way to transfer assets between different networks. It is a bridge between both EVM (Like Ethereum, Polygon, BSC) and non-EVM compatible (like Solana, Terra) blockchains, that aims to cover L2 (like Arbitrum, Optimism) solutions and NFT transfers in the future.

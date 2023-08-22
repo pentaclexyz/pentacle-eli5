@@ -1,0 +1,1 @@
+The first Web3 wallet that combines power, security and ease of use, while also being open-source and non-custodial.

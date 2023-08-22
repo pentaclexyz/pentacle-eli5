@@ -1,0 +1,1 @@
+mgnr is a systematic proprietary trading and investment firm focusing on quantitative trading 

@@ -1,0 +1,1 @@
+MyCrypto is a Ethereum based wallet that enables users to unify all their Ethereum accounts without giving up privary or security

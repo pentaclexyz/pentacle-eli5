@@ -1,0 +1,1 @@
+0xPARC Program for Applied Research in Cryptography: supporting application-level R&D on Ethereum and decentralized platforms. The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms. Primary areas of focus are research and development, open-source tools and infrastructure and education and ecosystem development. 

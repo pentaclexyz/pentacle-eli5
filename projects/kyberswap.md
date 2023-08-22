@@ -1,0 +1,1 @@
+AI-powered dashboard that analyzes on-chain data, trade volume and price trends to discover tokens that would likely trend in the near future.

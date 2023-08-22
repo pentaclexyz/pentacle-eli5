@@ -1,0 +1,1 @@
+Investing in exceptional fintech/blockchain companies led by founders with big ambitions and contrarian worldviews.

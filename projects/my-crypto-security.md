@@ -1,0 +1,1 @@
+Safety first! Learn how to spot scams, avoid phishing, and protect your digital assets.

@@ -1,0 +1,1 @@
+Variant is an early-stage fund investing in web3. They believe the next generation of the internet will transform users into owners. Variant backs mission-aligned founders at the earliest possible stage.

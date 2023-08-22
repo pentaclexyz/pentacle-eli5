@@ -1,0 +1,1 @@
+Euler is a team of software engineers and quantitative analysts specialising in the research and development of financial applications.

@@ -1,0 +1,1 @@
+🧂 The salt only comes from working hard on real tech | 👔 DJ at @iearnfinance's meetings | 👼 @daedalus_angels

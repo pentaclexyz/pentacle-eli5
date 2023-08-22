@@ -1,0 +1,1 @@
+Ethereum smart contracts approvals dashboard for your wallet

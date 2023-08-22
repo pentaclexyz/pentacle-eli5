@@ -1,0 +1,1 @@
+ヽ(⌐■_■)ノ♪♬ @ @GauntletNetwork/@robotventures/@pleasrDAO/@aerafinance // Past: ¯\_(ツ)_/¯ @ HFT/@DEShawResearch/@cornell main: @guilleangeris / pinged.lens

@@ -1,0 +1,1 @@
+President and COO at Coinbase, Angel Investor

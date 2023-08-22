@@ -1,0 +1,1 @@
+Flux is the new generation of scalable decentralized cloud infrastructure. Simply develop, manage, and spawn your applications on multiple servers at once. Ready for Web 3.0, Dapps, Enterprise Cloud Infrastructure.

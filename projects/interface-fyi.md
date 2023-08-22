@@ -1,0 +1,1 @@
+interface automatically generates UI for most smart contracts on the Ethereum blockchain (no ABI required)

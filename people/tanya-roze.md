@@ -1,0 +1,1 @@
+Excellence-driven specialist with bachelor degree in Software Engineering. Started to be interested in development since middle school.

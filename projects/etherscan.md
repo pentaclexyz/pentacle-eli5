@@ -1,0 +1,1 @@
+Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform. Built and launched in 2015 it is one of the earliest and longest running independent project built around Ethereum and its community with the mission of providing equitable access to blockchain data.

@@ -1,0 +1,1 @@
+“a scholar” - coindesk; “an absurdist” - bloomberg; “utter bastard” - james may // creator @wildcatfi; age diversity @law_leeds // timeline cognitohazard

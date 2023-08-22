@@ -1,0 +1,1 @@
+Buy and sell fractions of NFTs. Fractional ownership of the world’s most sought after NFTs. Fractional reduces entry costs, increases access, and enables new communities.

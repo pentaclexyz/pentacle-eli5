@@ -1,0 +1,1 @@
+Banners is a generative NFT collection exploring a hypercitation of early 00's digital aesthetics with content organically sourced from performative posts made within the Milady Maker community.

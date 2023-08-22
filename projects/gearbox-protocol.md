@@ -1,0 +1,1 @@
+Gearbox is a generalized leverage protocol. It allows you to take leverage and then use it across other DeFi protocols and platforms in a composable way.

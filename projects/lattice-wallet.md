@@ -1,0 +1,1 @@
+The Lattice1 enables management of cryptoassets with a simple secure interface. With a dedicated secure enclave, anti-tamper features, secure screen, and human readable smart contract markup you are always in control of your keys.

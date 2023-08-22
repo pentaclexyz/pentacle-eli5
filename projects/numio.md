@@ -1,0 +1,1 @@
+Your portal to Ethereum on Layer 2. Save 100x on Ethereum fees while trading, earning crypto with DeFi, collecting NFTs, and more

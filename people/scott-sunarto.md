@@ -1,0 +1,1 @@
+main questing @ArgusLabs_, larp @egirl_capital, advisory board @VeridiseInc, distributed systems, prev: co-creator @darkforest_eth, @Berkeley_EECS

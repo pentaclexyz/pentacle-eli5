@@ -1,0 +1,1 @@
+crypto investments @paradigm, technology, history, strategy games, boston sports. optimist

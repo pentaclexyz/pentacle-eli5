@@ -1,0 +1,1 @@
+Credora is a network powering provably private computations of risk information from permissioned data sources across CeFi and DeFi. The network ensures that reliable credit information is available for applications and credit providers, using scalable and secure infrastructure.

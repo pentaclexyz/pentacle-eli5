@@ -1,0 +1,1 @@
+Check DNS Propagation worldwide. DNS Checker provides name server propagation check instantly. Changed nameservers so do a DNS lookup and check if DNS and nameservers have propagated.

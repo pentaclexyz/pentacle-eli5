@@ -1,0 +1,1 @@
+ParaFi Capital is an alternative investment firm focused on blockchain and decentralized finance markets.

@@ -1,0 +1,1 @@
+dForce is a platform that advocates for building an integrated and interoperable open finance protocol matrix covering  lending (global liquidity pool, yield markets), assets (stablecoin, synthetic asset, etc), and trading (liquidity aggregator, AMM).

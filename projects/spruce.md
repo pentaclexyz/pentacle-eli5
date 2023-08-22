@@ -1,0 +1,1 @@
+We're building the open-source stack to leave control of identity and data where it should be: with users. This begins with SSX.

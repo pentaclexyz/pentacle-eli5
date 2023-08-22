@@ -1,0 +1,1 @@
+TxStreet is a live blockchain transaction and mempool visualizer. Each person represents a single transaction happening in real time. Each house represents a type of transaction. Each bus represents a future block.

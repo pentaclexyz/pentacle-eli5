@@ -1,0 +1,1 @@
+BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol.

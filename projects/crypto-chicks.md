@@ -1,0 +1,1 @@
+A non-profit blockchain educational hub with a mission to grow the professional potential of women in blockchain. You educate a woman, you educate a generation.

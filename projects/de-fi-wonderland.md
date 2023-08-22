@@ -1,0 +1,1 @@
+Wonderland is an activist fund, as such, our goal is to join forces with the best builders in the world to shape the future of the web. We believe this future needs to be open-source, permissionless, and decentralized, and we strive towards that goal.

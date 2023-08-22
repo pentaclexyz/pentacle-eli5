@@ -1,0 +1,1 @@
+You've spent 🤔 on gas. Right now, that's 🤔. You used 🤔 gas to send 🤔 transactions, with an average price of 🤔 gwei. 🤔 of them failed, costing you 🤔.

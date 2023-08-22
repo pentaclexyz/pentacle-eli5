@@ -1,0 +1,1 @@
+Idle is a decentralized yield platform on the Ethereum platform that uses automated rebalancing among DeFi protocols in order to optimize return to for its users. Users are allowed the option to choose between high risk, high return (max yield) or adjust to a lower risk using the RiskAdjusted allocation strategy.

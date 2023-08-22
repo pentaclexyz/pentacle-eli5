@@ -1,0 +1,1 @@
+Mostly harmless. Alphabetized. Eats breakfast. Also, the author of ethers and Firefly, the $5 DIY Ethereum Hardware Wallet. The future will be awesome. He/him.

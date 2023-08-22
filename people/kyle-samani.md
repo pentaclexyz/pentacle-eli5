@@ -1,0 +1,1 @@
+Cofounder, Managing Partner @multicoincap. Telegram: https://t.co/r1Njz1v1zv. Opinions are my own; not a solicitation; not an offer for investment advisory services

@@ -1,0 +1,1 @@
+Portfolio Strategist at @Nascentxyz, former servant of the shareholders @citi, coins make you happy

@@ -1,0 +1,1 @@
+Founder of Crypto Pragmatist, an email newsletter on the narratives and assets shaping crypto.

@@ -1,0 +1,1 @@
+Ghiblady Maker is a collection of 10,000 lovepilled AI generative pfpNFTs with inspiration from Milady, Pixelady, and other Milady inspired projects.

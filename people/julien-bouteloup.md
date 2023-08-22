@@ -1,0 +1,1 @@
+🐸. WAAR. maths & physic. HW eng.Blockchain dev & builder.Core team @CurveFinance. Founder of @RektHQ, @BlackpoolHQ, @StakeDAOHQ, @StakeCapital

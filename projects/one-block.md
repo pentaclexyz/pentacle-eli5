@@ -1,0 +1,1 @@
+One Block Capital is a blockchain investment and advisory company based in Hong Kong

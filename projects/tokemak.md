@@ -1,0 +1,1 @@
+Tokemak is a decentralized liquidity providing/market making protocol designed to create efficient, sustainable liquidity across DeFi. Tokemak's native token, TOKE, serves as tokenized liquidity, enabling stakers to direct the protocol's TVL as liquidity across DeFi markets.

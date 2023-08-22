@@ -1,0 +1,1 @@
+Static Analyzer for Solidity. Contribute to crytic/slither development by creating an account on GitHub.

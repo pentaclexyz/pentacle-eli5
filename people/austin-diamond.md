@@ -1,0 +1,1 @@
+Building something old. Co-Founder @alongsidefi

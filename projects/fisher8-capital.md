@@ -1,0 +1,1 @@
+Fisher 8 Capital is a venture capital firm based in Singapore, Singapore. The firm prefers to invest in seed-stage, early-stage, and later-stage companies.

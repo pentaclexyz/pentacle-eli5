@@ -1,0 +1,1 @@
+CEO @binance, holder of #bnb #btc

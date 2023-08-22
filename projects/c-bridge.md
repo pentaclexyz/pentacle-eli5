@@ -1,0 +1,1 @@
+Celer cBridge supports instant, low-cost and secure cross-chain bridging for tokens and arbitrary messages . Building interoperability between Ethereum <> BSC <> Avalanche <> Polygon <> Fantom <> Arbitrum <> Harmony <> Optimism <> Boba Network <> …

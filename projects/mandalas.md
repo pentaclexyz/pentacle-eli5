@@ -1,0 +1,1 @@
+Mandalas are procedurelly generated bitmaps recorded as NFT on ethereum. There are millions of millions of them, (2^160)-1 to be exact.

@@ -1,0 +1,1 @@
+Myco makes it easy to bring your people together, by giving them shares in the communities they're building. Join the thousands of people who are realizing the power of collaborative ownership.

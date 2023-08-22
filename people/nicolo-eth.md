@@ -1,0 +1,1 @@
+Director of Strategy @AaveAave @LensProtocol // Ex Crypto Founder (https://t.co/Kr7DSWlu8G) // Email: https://t.co/Skhymfzmjq - 🇮🇹🇩🇪🇬🇧🦇🔊 (opinions = my own)

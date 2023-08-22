@@ -1,0 +1,1 @@
+Seed Club is a DAO that builds and invests in communities. We’re building a future where the value created by communities on the internet is captured by people, not platforms.

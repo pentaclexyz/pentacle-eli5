@@ -1,0 +1,1 @@
+A DAO building trust-minimized, composable protocols for web3

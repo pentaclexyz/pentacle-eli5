@@ -1,0 +1,1 @@
+Set Protocol is an Ethereum-native DeFi primitive that leverages existing Open Finance protocols to allow for the bundling of crypto-assets into fully collateralised baskets, which are represented as ERC20 tokens on the Ethereum blockchain. These Set tokens act as structured products that represent the manager's strategy, which others can replicate by simply holding the Set.

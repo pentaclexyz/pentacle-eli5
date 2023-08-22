@@ -1,0 +1,1 @@
+Sak3 is a limited edition (200 Pieces) Sake that is tradeable on sushi.com

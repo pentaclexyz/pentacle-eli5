@@ -1,0 +1,1 @@
+Share-to-earn decentralised social app for the most interesting feed on your phone

@@ -1,0 +1,1 @@
+Ceramic is a decentralized data network that brings unlimited data composability to Web3 applications.

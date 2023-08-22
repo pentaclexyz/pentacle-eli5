@@ -1,0 +1,1 @@
+Hakka Finance is a Decentralized Autonomous Organization (DAO) aiming to build a suite of Decentralized Finance (DeFi) products.

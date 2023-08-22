@@ -1,0 +1,1 @@
+Manifold enables web3 creators to have true creative ownership, preserve on-chain provenance, and interoperate with all major NFT marketplaces.

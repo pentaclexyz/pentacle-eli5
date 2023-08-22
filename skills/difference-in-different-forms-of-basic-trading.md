@@ -1,0 +1,11 @@
+Crypto traders often get a lot of flack for their levels of risk tolerance, if they even possess any. While the cryptocurrency market is arguably the most volatile in the world, of course this community of degenerates figured out ways to introduce more risk - and even more gains. 
+
+In trading terms, a spot position is one that refers to the direct purchase of assets. Whatever you buy is the most you can lose. Say you wish to buy $100 of Bitcoin with your new wallet. To do so, you could head over to an exchange like Binance and purchase this and receive the coins within minutes or less - easy as that. 
+
+On the other hand, margin trading is a bit different - think of it as a means of increasing your risk in order to boost your upside, which can also lead to an increased downside. Margin offers speculators the ability to borrow funds in order to artificially increase a position size. Many exchanges offer leveraged trading up to as much as 25-50x, although levels that high can be very dangerous to the portfolio of an inexperienced investor. 
+
+When a margin position goes up, traders can experience big gains very fast. After all, if you’re on 10x leverage and something goes up a lot, you’re going to make much more money had you stayed with spot trading. However, the opposite is also true. When a margin position goes down, a trader can get liquidated, losing their principal investment. These are just some of the ups and downs of margin trading - it’s important to gauge how this strategy might fit into your portfolio and investment thesis before you dive in with all of your money.
+
+Despite crypto’s volatility, traders can’t seem to get enough. Margin trading doesn’t usually work out for inexperienced traders over the long term, despite how easy it can be to 10x a smaller amount on your first or second try. Just like with any risky investment, something like margin should be utilized with only a small portion of funds and typically remain under 5x leverage.
+
+There are benefits to both strategies, as holding spot can often assist investors in downturns due to the minimal risk involved by comparison. You can’t get liquidated holding Bitcoin in a hardware wallet. 

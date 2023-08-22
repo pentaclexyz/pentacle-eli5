@@ -1,0 +1,1 @@
+Math Wallet is a multi-asset wallet that enables users to store and trade cryptocurrencies on multiple platforms. Currently, mobile, browser extension, web wallet and hardware wallet is supported. Math Wallet also supports built in staking & swapping.

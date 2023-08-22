@@ -1,0 +1,2 @@
+Rainbow is a fun, simple, and secure way to create an Ethereum wallet, collect NFTs, and explore the new world of Web3. 
+👇 On this page you’ll find resources, guides, and education that will help you use the Rainbow app and navigate the world of Web3 and Ethereum.

@@ -1,0 +1,1 @@
+Uncommon Core is a podcast hosted by Su Zhu, the CEO and CIO of Three Arrows Capital, and Hasu, an experienced crypto researcher and writer. Together with occasional guests, they explore the transformative nature of trust-minimized currency and financial services.

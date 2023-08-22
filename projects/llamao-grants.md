@@ -1,0 +1,1 @@
+LlamaoGrants is intended to be a public good that provides information on Ecosystem Grants and Incentives Programs across crypto. 

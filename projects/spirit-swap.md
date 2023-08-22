@@ -1,0 +1,1 @@
+The SpiritSwap protocol adds incentives for Fantom network participants by introducing revenue sharing through the classic AMM model

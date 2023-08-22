@@ -1,0 +1,1 @@
+Partner @MechanismCap, @pleasrdao @therealdaojones, @RED___DAO, @own_fund #metaverse, #P2E, #Nfts, #mentalhealth

@@ -1,0 +1,1 @@
+A web3 native collective of investors, founders, and builders, partnering with innovators to create the user-owned internet.

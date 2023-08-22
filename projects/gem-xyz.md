@@ -1,0 +1,1 @@
+The Metaverse Shopping Cart. Discover, buy, and sell NFTs across all marketplaces.

@@ -1,0 +1,1 @@
+New Order is a community-led incubation DAO that builds startups at the frontier of decentralized finance. We launch early-stage protocols through strategic internal incubation and our DeFi Base Camp accelerator program.

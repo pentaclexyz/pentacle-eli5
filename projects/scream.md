@@ -1,0 +1,1 @@
+SCREAM is a highly-scalable decentralised lending protocol built and powered by the Fantom Blockchain.

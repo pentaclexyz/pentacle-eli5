@@ -1,0 +1,1 @@
+Bored Milady Maker is a collection of 6,911 generative pfpNFT's in a neochibi aesthetic inspired by street style tribes that infected the apes with Network Spirituality.

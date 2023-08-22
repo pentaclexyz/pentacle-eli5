@@ -1,0 +1,1 @@
+Token Terminal is a platform that aggregates financial data on the leading blockchains and decentralized applications (dapps). Their aim is to provide access to standardized metrics that enable users to easily quantify and compare the performance of different blockchains and decentralized applications.

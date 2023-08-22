@@ -1,0 +1,1 @@
+heyanon is a way for people who are in cool groups or did cool stuff on Ethereum to broadcast messages anonymously on Twitter.

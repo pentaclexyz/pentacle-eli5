@@ -1,0 +1,1 @@
+Rainbow Bridge allows users to transfer tokens between Ethereum, NEAR & Aurora

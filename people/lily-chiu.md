@@ -1,0 +1,1 @@
+Prior to joining Kronos Ventures, Lily worked at J.P.Morgan and leading private equity firms in Taiwan covering internet, TMT, consumer sectors in Asia. 

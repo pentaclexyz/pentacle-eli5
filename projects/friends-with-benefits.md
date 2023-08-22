@@ -1,0 +1,1 @@
+Friends with Benefits is a worldwide group of cultural creators, thinkers, and builders who convene digitally and IRL to collaboratively shape web3's future. 

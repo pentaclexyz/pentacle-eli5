@@ -1,0 +1,1 @@
+Omilos is a client for the decentralized social network Farcaster. On it, you own your data, which means you can migrate your account to any other client built on top of Farcaster. Omilos aim to be lightweight and AI driven.

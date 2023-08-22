@@ -1,0 +1,1 @@
+Deep Tech DeFi Infrastructure | Instant Cross-Chain Settlement | Empowering Traders & Asset Managers through Qredo custody services and Qredo protocol

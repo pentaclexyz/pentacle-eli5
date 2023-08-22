@@ -1,0 +1,1 @@
+Rangel previously worked as front end developer at DappRadar and AdEx Network. He has 4 years of experience with Solidity and smart contracts and is passionate in exploring the Dark Forest.

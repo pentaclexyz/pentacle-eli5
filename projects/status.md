@@ -1,0 +1,1 @@
+Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.

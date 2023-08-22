@@ -1,0 +1,1 @@
+Our goal is to create long-term incentives for open-source developers working on Ethereum’s roadmap, especially public goods R&D, which are essential to Ethereum’s success.

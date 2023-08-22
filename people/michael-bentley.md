@@ -1,0 +1,1 @@
+CEO of Euler Labs @eulerfinance. Dynamical systems and evolutionary game theory @UniofOxford.

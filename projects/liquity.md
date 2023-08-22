@@ -1,0 +1,1 @@
+Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.

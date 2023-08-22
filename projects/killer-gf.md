@@ -1,0 +1,1 @@
+Killer GF is a 7,777 generative portrait art collection by a former Riot Games Artist, Zeronis, with over 240 meticulously designed features that contrasts cute and aesthetically appealing girlfriends that also happen to be dangerous assassins.

@@ -1,0 +1,1 @@
+zk.money is a Layer 2 privacy app built on top of Aztec network.

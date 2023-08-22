@@ -1,0 +1,1 @@
+Tapioca is the first omnichain lending and borrowing protocol built on LayerZero. Tapioca enables assets to seamlessly flow between networks in a trustless fashion, bringing borderless liquidity to defi. 

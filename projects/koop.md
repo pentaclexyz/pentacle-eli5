@@ -1,0 +1,1 @@
+A Koop is a community, led by both the creators and their members. At its core, communities are backed by a treasury created from an NFT collection or membership pass. The treasury is used to bring a community's ideas to life whether they are creating an animated web show or developing software.

@@ -1,0 +1,1 @@
+A permissionless framework for quantifying quality and risk of open finance protocols. Prime Rating is a public good for the systemic advancement of DeFi.
