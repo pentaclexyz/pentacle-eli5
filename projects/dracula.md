@@ -1,0 +1,1 @@
+Dracula Protocol is a decentralized finance (DeFi) tool and application that streamlines, aggregates & compounds yield across the leading farming platforms. The application is a one-stop-shop offering a wide spectrum of DeFi yield opportunities, where users save time & money, and maximize their yield farming returns.

@@ -1,0 +1,1 @@
+Tally is a DAO operations platform that helps people start, join, and grow decentralized organizations.

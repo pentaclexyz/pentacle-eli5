@@ -1,0 +1,1 @@
+Unconditional Basic Income @CirclesUBI, Co-founded Gnosis. Supporting @gnosisDAO @gnosischain, @gnosisSafe, @gnosisguild, @cowswap

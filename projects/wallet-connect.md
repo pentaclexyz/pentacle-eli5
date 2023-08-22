@@ -1,0 +1,1 @@
+WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking. People can interact securely with any Dapp from their mobile phone, making WalletConnect wallets a safer choice compared to desktop or browser extension wallets.

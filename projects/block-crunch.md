@@ -1,0 +1,1 @@
+Block Crunch is one of the go-to podcasts that is trusted by fund managers, founders and operators in crypto and DeFi. Jason Choi, full-time crypto investor and General Partner at Spartan Capital, goes deep into the technology and economics behind crypto projects to dissect trends and themes in a global context.

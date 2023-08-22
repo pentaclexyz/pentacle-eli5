@@ -1,0 +1,1 @@
+Loopring is an Ethereum Layer-2 scaling protocol. It allows for building high-throughput, low-cost, non-custodial AMMs, orderbook exchanges, and payment applications on Ethereum by leveraging Zero-Knowledge Proofs.

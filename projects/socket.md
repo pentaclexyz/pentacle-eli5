@@ -1,0 +1,1 @@
+Socket is a complete interoperability stack which allows asset & data transfer across chains, enabling developers to build truly cross-chain apps

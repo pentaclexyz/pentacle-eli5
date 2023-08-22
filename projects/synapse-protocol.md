@@ -1,0 +1,1 @@
+Synapse is a trust-less cross-chain AMM & bridge. Bridge assets across chains, swap assets, earn yield & more

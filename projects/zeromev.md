@@ -1,0 +1,1 @@
+Ethereum miners and validators have unchecked power to take money from you by frontrunning and censoring your transactions.

@@ -1,0 +1,1 @@
+shadowy avg text editor, squeether, head of Research @opyn_. prior vix/vol of vol trading @nomura, latam rates/fx @bankofamerica. love climbing, biking, travel

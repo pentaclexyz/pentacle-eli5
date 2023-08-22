@@ -1,0 +1,1 @@
+Sov's Compendium is a collection of curated information sources, research, and valuable tools that might help your journey toward sovereignty.  

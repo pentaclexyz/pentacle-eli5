@@ -1,0 +1,1 @@
+dClimate is a chain-agnostic, decentralized climate information ecosystem that makes it easy for businesses and builders to find, access, and utilize essential information about our planet to better understand how weather and climate impacts our communities and build data-driven technology solutions for helping communities achieve climate resilience.

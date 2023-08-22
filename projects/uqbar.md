@@ -1,0 +1,1 @@
+Uqbar is a smart contract platform built on Urbit, the world's only p2p networked operating system. Come join us at: ~hocwyn-tipwex/uqbar-event-horizon-forever

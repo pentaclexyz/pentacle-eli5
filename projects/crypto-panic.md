@@ -1,0 +1,1 @@
+CryptoPanic.com is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts. Users can vote to mark important, bullish or bearish price signals. CryptoPanic now has also portfolio tracking and other useful features. PRO account allows users to add custom RSS/Atom feeds and reddit and twitter sources and other premium features.

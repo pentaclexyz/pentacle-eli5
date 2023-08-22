@@ -1,0 +1,1 @@
+Hacker Frens are a sick metaverse experiment by a Hacker obsessed with taking over the metaverse. 5000 unique hacker frens have been created and spread into the metaverse to cause havoc. Stored on the ethereum chain as an ERC-721, it'll take more than a simple antivirus to get rid of them.

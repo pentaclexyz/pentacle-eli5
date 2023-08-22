@@ -1,0 +1,1 @@
+A global, multi-strategy investment firm focused on crypto and open finance

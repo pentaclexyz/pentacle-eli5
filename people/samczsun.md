@@ -1,0 +1,1 @@
+research @paradigm, powered by @openai. art by @Keiseeaaa/@vincywp

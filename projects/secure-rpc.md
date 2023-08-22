@@ -1,0 +1,1 @@
+SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well and meet the following requirements:

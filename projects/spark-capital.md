@@ -1,0 +1,1 @@
+WE INVEST in products we love, people, crazy, dreams, design, details, brains, reality, unreality, reinvention, new markets, weird stuff, guts, independence, hustle, distinction, art, humanness, idealists, oddities, optimism, communities, creation, surprises, technologists with the heart of an artist, each other.

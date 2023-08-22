@@ -1,0 +1,1 @@
+«In another time, another culture, he may have been a seer, a shaman priest. In our world he's a shoe salesman and lives among the shadows.» 💾@forms_xyz💾

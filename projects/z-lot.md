@@ -1,0 +1,1 @@
+zLOT Finance is the a staking protocol built upon Hegic

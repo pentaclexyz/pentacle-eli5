@@ -1,0 +1,1 @@
+coo @delv_tech | prev. gov architect @makerdao | @makermafia_ @ethcatherders member

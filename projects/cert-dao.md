@@ -1,0 +1,1 @@
+certDAO is a decentralized organization that verifies domain to contract address mappings for the Ethereum community. Think of certDAO as a certificate authority for Web3.

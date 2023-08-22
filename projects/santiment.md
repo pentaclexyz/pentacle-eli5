@@ -1,0 +1,1 @@
+Santiment is a platform that aggregates multiple datasets and creates dashboards for users to explore information about the cryptocurrency space.

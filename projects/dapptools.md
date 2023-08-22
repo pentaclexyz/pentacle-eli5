@@ -1,0 +1,1 @@
+dapptools is a suite of Ethereum focused CLI tools following the Unix design philosophy, favoring composability, configurability and extensibility.

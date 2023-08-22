@@ -1,0 +1,1 @@
+CryptoKitties is an online game where players buy, trade and breed adorable digital cats.

@@ -1,0 +1,1 @@
+dYdX is a leading decentralized exchange that currently supports perpetual, margin trading, and spot trading, as well as lending, and borrowing. dYdX runs on smart contracts on the Ethereum blockchain, and allows users to trade with no intermediaries.

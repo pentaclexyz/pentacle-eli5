@@ -1,0 +1,1 @@
+We are a full-stack fund that invests early in generational companies building products that enable people to own their time, money, and ideas.

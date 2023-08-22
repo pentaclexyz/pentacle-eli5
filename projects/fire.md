@@ -1,0 +1,1 @@
+Fire is a Chrome extension that simulates transactions, showing you exactly what will go in and out of your wallet before you sign the contract. All under your control with your current wallet.

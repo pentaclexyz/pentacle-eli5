@@ -1,0 +1,1 @@
+a fan base never dies. haters die.

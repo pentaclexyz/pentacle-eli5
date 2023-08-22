@@ -1,0 +1,1 @@
+88mph is an open-source and non-custodial protocol allowing you to deposit your crypto and earn a fixed yield rate, speculate on future variable yield rates, and be rewarded with different incentives.

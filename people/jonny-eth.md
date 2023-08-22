@@ -1,0 +1,1 @@
+chief hack @delv_tech | prev failures: musician, mathematician, aerospace engineer, data scientist, ethereum core dev.

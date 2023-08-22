@@ -1,0 +1,1 @@
+AMP is a digital collateral token that provides instant, verifiable assurance for any real-world application

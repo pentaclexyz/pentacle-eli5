@@ -1,0 +1,1 @@
+Orange DAO exists to support past, present, and aspiring Y Combinator founders who are building the future of the crypto ecosystem

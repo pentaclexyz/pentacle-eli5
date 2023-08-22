@@ -1,0 +1,1 @@
+The open protocol and network for secure web3 messaging. Build with XMTP to send messages between blockchain accounts, including DMs, alerts, announcements, and more

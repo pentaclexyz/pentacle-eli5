@@ -1,0 +1,1 @@
+Ape Academy is a project-based learning platform for building in Web3 using Ape Framework. The platform consists of quality videos and articles on using Ape Framework for smart contract development.

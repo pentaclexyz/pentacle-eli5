@@ -1,0 +1,1 @@
+Maryam is an experienced product leader in financial software. Previously, she led product & engineering efforts at Ridgeline. Earlier she traded equities at a $50B investment firm acquired by BlackRock.

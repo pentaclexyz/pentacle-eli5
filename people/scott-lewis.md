@@ -1,0 +1,1 @@
+invented TVL, dex aggregator, CSR and competitive audits. cofounder: @slingshotcrypto, @code4rena, @defipulse, @atriumNFT. mech design. canto contributor. web+.

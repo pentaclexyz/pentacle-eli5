@@ -1,0 +1,1 @@
+UMA is an infrastructure that lets users deploy and trade synthetic assets on Ethereum with minimal use of an on-chain price feed. UMA has positioned itself as the “priceless” derivatives platform and relied on a system of economic incentives. It allows anyone to create collateral-backed synthetic assets on-chain including S&P 500, Gold, Tesla stock, etc.

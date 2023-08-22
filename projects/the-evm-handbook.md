@@ -1,0 +1,1 @@
+A curated list of EVM resources for aspiring shadowy super coders.

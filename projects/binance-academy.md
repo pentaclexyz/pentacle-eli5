@@ -1,0 +1,1 @@
+Welcome to Binance Academy! We're on a mission to educate the masses on the transformative potential of cryptocurrency and blockchain technology. On this website, you'll find over 280 articles covering everything from computer security to economics. Oh, and they're in 21 different languages.

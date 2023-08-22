@@ -1,0 +1,1 @@
+Akropolis is a provider of DeFi products that give users access to efficient and sustainable passive yield generation on multiple chains.

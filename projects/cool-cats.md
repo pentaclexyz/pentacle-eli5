@@ -1,0 +1,1 @@
+Cool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs

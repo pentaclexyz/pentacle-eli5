@@ -1,0 +1,1 @@
+A Citadel has been constructed to serve as a safe haven and to form a new society built around a shared vision of a better future of; personal freedom and sovereignty backed by a sound monetary system.

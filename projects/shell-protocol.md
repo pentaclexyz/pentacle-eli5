@@ -1,0 +1,1 @@
+Shell v2 lets you build capital-efficient AMMs that can evolve over time, design transactions with seamless atomic composability, and offer up to 4x cheaper gas costs for your users. 

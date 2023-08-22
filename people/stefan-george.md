@@ -1,0 +1,1 @@
+stefangeorge.eth | @GnosisDAO | @safe | @CoWSwap | @gnosisguild

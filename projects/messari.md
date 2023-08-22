@@ -1,0 +1,1 @@
+Messari is a platform that aggregates multiple datasets and creates dashboards for users to explore information about asset prices, DeFi statistics, research papers and more.

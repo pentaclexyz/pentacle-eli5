@@ -1,0 +1,1 @@
+Crypto traders lose millions every month because their transactions are being sandwich-attacked. There are dozens of bots continuously monitoring the mempool to find transactions they can frontrun. So far it was difficult for traders to estimate whether their swaps on decentralized exchanges were susceptible to sandwich attacks or not.

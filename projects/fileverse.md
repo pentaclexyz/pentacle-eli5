@@ -1,0 +1,1 @@
+File sharing between blockchain addresses. Token gate, don't google drive. For Web3 communities, frens & anons.

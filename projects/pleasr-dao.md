@@ -1,0 +1,1 @@
+PleasrDAO is a collective of DeFi leaders, early NFT collectors and digital artists who have built a formiddable yet benevelont reputation for acquiring culturally significant pieces with a charitable twist.

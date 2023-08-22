@@ -1,0 +1,1 @@
+Loom Network is a multichain interoperability platform that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.

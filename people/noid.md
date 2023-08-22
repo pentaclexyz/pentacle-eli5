@@ -1,0 +1,1 @@
+rapper, economist, journalist, writer, CEO, dirty hoe

@@ -1,0 +1,1 @@
+Review and revoke your token approvals for any dApp. 

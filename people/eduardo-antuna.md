@@ -1,0 +1,1 @@
+Empowering Digital Freedom. @DAppNode Co-Founder and Project lead, @0xPolygon zkEVM Core Developer and @Givethio contributor

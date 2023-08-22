@@ -1,0 +1,1 @@
+Here you'll find resources and complementary educational material to start your journey in security and hacking of smart contracts in Ethereum.

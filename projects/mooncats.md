@@ -1,0 +1,1 @@
+Mooncats is an early ethereum NFT project that has 25,600 NFTs minted.

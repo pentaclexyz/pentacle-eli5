@@ -1,0 +1,1 @@
+ETH Gas Station aims to increase the transparency of gas prices, transaction confirmation times, and miner policies on the Ethereum network. The long term success of Ethereum depends on a healthy and efficient market for the price of gas. We hope this site will help people get the best gas price.

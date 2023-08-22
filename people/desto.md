@@ -1,0 +1,1 @@
+Parterships Manager for @killergfnft. Support South American Artists. Killer GF | uwucrew | MAYC

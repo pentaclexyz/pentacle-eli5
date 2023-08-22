@@ -1,0 +1,1 @@
+Contributing @ikigai_fund, @egirl_capital, @riskharbor.

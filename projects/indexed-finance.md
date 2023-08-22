@@ -1,0 +1,1 @@
+Indexed Finance is a project focused on the development of passive portfolio management strategies for the Ethereum network. Indexed Finance is managed by the holders of its governance token NDX, which is used to vote on proposals for protocol updates and high level index management such as the definition of market sectors and the creation of new management strategies.

@@ -1,0 +1,1 @@
+This Wiki aims to become the encyclopedia of crypto. It is written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system and it aims to be community-driven, neutral and unbiased.

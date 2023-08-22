@@ -1,0 +1,1 @@
+smart threads & dumb memes. crypto since 2017, currently vibing @pleasrDAO 🤝 @delphi_digital opinions my own

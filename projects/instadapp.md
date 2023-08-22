@@ -1,0 +1,1 @@
+The Instadapp protocol ('DSL') acts as the middleware that aggregates multiple DeFi protocols into one upgradable smart contract layer.

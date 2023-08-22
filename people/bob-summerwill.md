@@ -1,0 +1,1 @@
+Executive Director, ETC Cooperative ~ Bitcoin, ETC, Ethereum, Hyperledger

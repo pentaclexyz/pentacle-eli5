@@ -1,0 +1,1 @@
+BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Their strategies will be based on their long-term passion for gaming and art, as they combine professional data analytics and machine learning to provide the best returns for their users.

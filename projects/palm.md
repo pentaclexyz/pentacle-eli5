@@ -1,0 +1,1 @@
+Palm is a new NFT ecosystem for culture and creativity, built efficiently with Ethereum. The Palm ecosystem features low gas costs, fast transaction finality, and is over 99.9% more energy efficient than Proof of Work systems.

@@ -1,0 +1,1 @@
+Staking Rewards is the leading data provider for staking and crypto-growth tools. They are currently tracking 230 yield-bearing assets with an average reward rate of 14.95% and 24783 qualified providers.

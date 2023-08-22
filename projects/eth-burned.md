@@ -1,0 +1,1 @@
+The more Ethereum is used... the more ETH is burned

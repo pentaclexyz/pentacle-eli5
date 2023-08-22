@@ -1,0 +1,1 @@
+Audius is a music streaming and sharing platform that puts power back into the hands of content creators. Giving everyone the freedom to distribute, monetize, and stream unstoppable audio.

@@ -1,0 +1,1 @@
+Kasper is a postgraduate Blockchain Development student at George Brown College in Toronto. Originally graduated from Aerospace Engineering and worked as safety critical software engineer.

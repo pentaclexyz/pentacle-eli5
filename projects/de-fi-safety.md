@@ -1,0 +1,1 @@
+DeFi Safety is an independent ratings organization that evaluates Decentralized Finance products to produce an overarching security score based on transparency and adherence to best practices.

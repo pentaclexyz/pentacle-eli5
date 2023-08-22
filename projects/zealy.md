@@ -1,0 +1,1 @@
+Zealy is the operating system for communities. We help you automate your entire workflow from onboarding to delegation.

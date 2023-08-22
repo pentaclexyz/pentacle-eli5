@@ -1,0 +1,1 @@
+Stablecoin protocol that allows you to keep your crypto and still be able to spend its value

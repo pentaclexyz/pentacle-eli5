@@ -1,0 +1,1 @@
+The Solana Foundation is a non-profit organization headquartered in Zug, Switzerland, dedicated to the decentralization, growth, and security of the Solana network.

@@ -1,0 +1,1 @@
+building zine  @ourzora  ☼☽  @____zine____  ✦ I also talk about mental disability ✦ New York-based cultural entrepreneur, brand strategist and visual storyteller  

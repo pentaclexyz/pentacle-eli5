@@ -1,0 +1,1 @@
+Next-generation charting and volume analysis platform. Advanced heatmap visualization, live data, indicator scripting, support for all major crypto exchanges and more.

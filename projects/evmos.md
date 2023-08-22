@@ -1,0 +1,1 @@
+Evmos leverages the Cosmos SDK serves as the first IBC-compatible EVM-based chain, bringing composability, interoperability, and fast finality to Ethereum.

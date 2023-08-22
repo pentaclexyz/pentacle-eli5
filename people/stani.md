@@ -1,0 +1,1 @@
+Founder of @LensProtocol 🌿 and @AaveAave 👻

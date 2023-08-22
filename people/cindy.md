@@ -1,0 +1,1 @@
+cofounder @DriftProtocol | building on-chain derivatives | ex crypto prop trading

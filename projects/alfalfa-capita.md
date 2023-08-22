@@ -1,0 +1,1 @@
+We invest in Web3 companies, with a focus on finance, and culture.

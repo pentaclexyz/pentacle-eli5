@@ -1,0 +1,1 @@
+Neon District is a cyberpunk role-playing adventure by blockade games. Strategize and fight to progress through a sci-fi dystopia while collecting characters and gear backed with blockchain technology.

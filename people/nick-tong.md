@@ -1,0 +1,1 @@
+Strategy and Partnerships @perpprotocol | Angel investing @daedalus_angels 🌏| Janitor at SG builders (https://t.co/Gs85sUum0G) | Living in 🇸🇬 | DMs open.

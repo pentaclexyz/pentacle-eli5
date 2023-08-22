@@ -1,0 +1,1 @@
+Perennial is built from first-principles to be a powerful, flexible, and composable primitive that can scale to meet the needs of DeFi traders, liquidity providers, and developers.

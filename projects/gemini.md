@@ -1,0 +1,3 @@
+Gemini is a regulated cryptocurrency exchange, wallet, and custodian that makes it simple and secure to buy bitcoin, ether, and other cryptocurrencies. They are a licensed New York trust company that undergoes regular bank exams and is subject to the cybersecurity audits conducted by the New York Department of Financial Services
+
+[When you deposit on a centralised exchange you receive an IOU for your tokens, which shows up as your wallet balance. When your tokens are held on a centralised exchange, you don't physically own them – the exchange does, and you may lose them]

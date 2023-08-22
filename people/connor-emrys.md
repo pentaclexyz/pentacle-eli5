@@ -1,0 +1,1 @@
+Connor is a full-stack engineer who has previously worked in building centralised finance applications and is the lead developer for the Sanshu-Inu community token.

@@ -1,0 +1,1 @@
+Equilibria is a builder collective focused on actively coordinating decentralized finance, by maintaining and governing existing protocols as well as developing new primitives in unsolved areas.

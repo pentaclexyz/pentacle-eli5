@@ -1,0 +1,1 @@
+Eco is one simple balance that lets you spend, send, save and make money.

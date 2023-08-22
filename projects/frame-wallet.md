@@ -1,0 +1,1 @@
+A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux

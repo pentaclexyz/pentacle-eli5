@@ -1,0 +1,7 @@
+In the cryptocurrency world, a stablecoin is a unique type of token that has its value pegged to the dollar. Created by MakerDAO, DAI is a stablecoin that is decentralized, as opposed to stables like Tether (USDT) and USDC. What is DAI, and how is it different from other stablecoins?
+
+DAI strives to be one of the few stablecoins that is actually backed, with various crypto assets locked to ensure this 1:1 ratio remains backed by some intrinsic aspect. As DAI is a stablecoin that lives on the Ethereum blockchain, its collateral is denominated in Ether and used to determine the ratio DAI is currently sitting on.
+
+Because DAI is decentralized, there is no one entity that can change the supply in any manner - only smart contracts have this capability. The benefits of a decentralized stablecoin may largely go unnoticed, mainly because all stables are the same price. However, in the event of some form of large scale bank run, collateralized stablecoins would win out and ultimately keep their investors’ (holders’) money safe and secure. 
+
+There are various crypto stablecoins, but few operate as DAI does. This first of its kind decentralized stable has made its way to the top 25 crypto currencies by market cap while becoming one of the most reputable stablecoins on the market. 

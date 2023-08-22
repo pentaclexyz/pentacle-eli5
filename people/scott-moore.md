@@ -1,0 +1,1 @@
+pixel art and open source enthusiast; co-founder @gitcoin + @kernel0x; steward @ensdomains + @optimismfnd; all opinions are gpt3.

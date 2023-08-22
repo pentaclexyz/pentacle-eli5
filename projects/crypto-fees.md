@@ -1,0 +1,1 @@
+Crypto Fees aggregates the generated fees of multiple crypto platforms (Layer 1's and Layer 2's) and displays them in a ranked order from highest generated fees to lowest.

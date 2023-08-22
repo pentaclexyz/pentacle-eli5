@@ -1,0 +1,1 @@
+Stream money every second. Superfluid is an asset streaming protocol that brings subscriptions, salaries and rewards to DAOs and crypto-native businesses.

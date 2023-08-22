@@ -1,0 +1,1 @@
+Seascape is a gaming platform based around DeFi and NFT economies. By turning the core concepts of DeFi into easy-to-access games, Seascape lowers the bar of complexity linked with DeFi and crypto more generally.

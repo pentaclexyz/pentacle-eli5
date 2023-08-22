@@ -1,0 +1,9 @@
+There are tons of different ways to buy cryptocurrency, and thousands of different coins to choose from. If you don’t know anything about crypto and want to dive in, things can be pretty overwhelming. Let’s jump in. 
+
+Exchanges like Binance and Coinbase make it easy to deposit money. You can use your bank account, PayPal or even a wire transfer. For most, using a bank account will probably be the easiest and fastest way to send money to an exchange. 
+
+Centralized exchanges make the process easier, as most of their users will be entirely new to the crypto space, and won’t have any existing crypto on a wallet to mess around with. Once you’re ready to get started, you can verify your personal info with an exchange and wait for an approval, which could take less than an hour or up to a week - it really just depends on where you’re at and what exchange you’re using.
+
+After this, you can add your bank account info to allow for deposits and withdrawals. Most - if not all - banks are supported, but it might take time for an approval. Once you’re ready, you can deposit whatever amount you feel comfortable investing onto the exchange. From here, your exchange will show you a USD balance (assuming you’re in the United States) and allow you to trade crypto freely. It’s that simple.
+
+Once you’ve had enough and want to take some profits back into USD, you can withdraw just as easily. Just make sure to sell your tokens back into USD and specify the withdrawal amount, then wait a few business days. Voila! Just like that, you have interacted with a centralized exchange, and hopefully made some profits in the process. Happy trading!

@@ -1,0 +1,1 @@
+The easiest way to create an allowlist for your next NFT project

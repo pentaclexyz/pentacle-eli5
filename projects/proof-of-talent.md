@@ -1,0 +1,1 @@
+Proof of Talent is a contingency based recruiting firm that works exclusively with companies in the blockchain and cryptocurrency industry. We specialize in working with talent that is most important to growth in blockchain. Full stack engineers, protocol developers, product managers, marketing and growth experts, sales & business development, designers, and more.

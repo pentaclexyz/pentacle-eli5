@@ -1,0 +1,1 @@
+Ayana has experience working as Quantitative Analyst in both Traditional and Decentralized Finance. She specializes in math modelling, risk management and simulations.

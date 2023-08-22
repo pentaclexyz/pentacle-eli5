@@ -1,0 +1,1 @@
+CryptoScamDB is dedicated to creating a safer cryptospace by educating the public on best security practices, uncovering malicious actors, and exposing scams, as well as providing scam detection services that can be integrated into existing products.

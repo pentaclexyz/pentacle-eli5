@@ -1,0 +1,1 @@
+Senior Frontend Engineer @primitivefi, likes testing and mind blowing UX

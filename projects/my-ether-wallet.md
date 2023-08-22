@@ -1,0 +1,1 @@
+MEW (MyEtherWallet) is a free, client-side interface helping you interact with the Ethereum blockchain. The easy-to-use, open-source platform allows you to generate wallets, interact with smart contracts, and so much more.

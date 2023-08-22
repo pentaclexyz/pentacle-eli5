@@ -1,0 +1,1 @@
+Investment Associate at Paradigm

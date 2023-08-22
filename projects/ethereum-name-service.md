@@ -1,0 +1,1 @@
+Decentralised naming for wallets, websites, and more

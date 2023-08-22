@@ -1,0 +1,1 @@
+http://eth.limo is a decentralized alternative to Cloudflare’s http://eth.link for delivering ENS/IPFS content

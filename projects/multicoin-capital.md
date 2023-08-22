@@ -1,0 +1,1 @@
+Thesis driven investors that make long-term, high-conviction investments in category defining crypto companies and protocols across public and private markets.

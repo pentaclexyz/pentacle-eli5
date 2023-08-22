@@ -1,0 +1,1 @@
+Blockchain developer, Ethereum fan, white hat hacker and Catalonia Freedom fighter. Currently building the Polygon zkEVM

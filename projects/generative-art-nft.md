@@ -1,0 +1,1 @@
+The generative-art-nft repository is a library for creating generative art. It was developed for the purpose of creating NFT avatar & collectible projects.

@@ -1,0 +1,1 @@
+Primitive is an ecosystem of efforts to build an innovative and oracle-free solution to DeFi derivatives. Under Primitive is a US equity company Primitive Bits, the decentralized RMM protocol, and the Primitive Products

@@ -1,0 +1,1 @@
+Boosted Curve Staking. Deposit liquidity, earn boosted CRV and rewards

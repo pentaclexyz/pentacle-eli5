@@ -1,0 +1,1 @@
+Jarar holds a master's degree in management from Peking University. Former marketer and now a product designer have been improving people's daily life in the digital world for more than 5 years.

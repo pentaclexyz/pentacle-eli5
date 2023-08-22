@@ -1,0 +1,1 @@
+Paradigm is an investment firm focused on supporting the crypto/Web3 companies and protocols of tomorrow. Our approach is flexible, long term, multi-stage, and global. We often get involved at the earliest stages of formation and continue supporting our portfolio companies over time.

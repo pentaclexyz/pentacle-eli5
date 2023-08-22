@@ -1,0 +1,1 @@
+Head of Marketing at Euler Labs. @eulerfinance

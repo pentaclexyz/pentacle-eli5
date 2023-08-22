@@ -1,0 +1,1 @@
+Keep is the privacy-focused infrastructure behind tBTC, the only truly decentralized solution for Bitcoin on Ethereum.

@@ -1,0 +1,1 @@
+Gradient is the first DeFi lending protocol that enables immediate loans using any NFT as collateral while allowing anyone to earn yield from the NFTs they own.

@@ -1,0 +1,1 @@
+Hacker, founder @delv_tech (used to be called Element) former ethereum core dev

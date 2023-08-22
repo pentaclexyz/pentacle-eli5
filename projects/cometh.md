@@ -1,0 +1,1 @@
+Cometh is a defi powered game with yield generating NFT. Get a spaceship, explore the galaxy and earn tokens.

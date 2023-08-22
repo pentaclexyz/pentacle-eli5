@@ -1,0 +1,1 @@
+Axie Infinity is a Pokémon-inspired universe NFT project where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.

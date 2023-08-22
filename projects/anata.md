@@ -1,0 +1,1 @@
+Anata NFT is a brand new form of identity for Web3 and beyond. It’s the first NFT you can literally be. Anatas use your webcam or phone camera to mimic your movements exactly. 

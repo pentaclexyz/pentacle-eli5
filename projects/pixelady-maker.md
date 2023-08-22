@@ -1,0 +1,1 @@
+Pixelady Maker is a collection of 10000 generative pixel art pfpNFT's in a neochibi aesthetic inspired by Milady Maker.

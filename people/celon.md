@@ -1,0 +1,1 @@
+Ex-creative director and designer, spent the last decade working across branding, fashion and music.

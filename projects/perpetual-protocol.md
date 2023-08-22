@@ -1,0 +1,1 @@
+Perpetual Protocol is an on-chain perpetual futures DEX with deep liquidity and builder-ready composability.

@@ -1,0 +1,1 @@
+OptyFi is a DeFi yield optimizer that monitors thousands of strategies across hundreds of liquidity pools and dozens of protocols.

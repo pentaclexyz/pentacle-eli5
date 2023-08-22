@@ -1,0 +1,1 @@
+Dune Analytics is a platform that aggregates multiple datasets and creates indicators about protocols in the DeFi space.

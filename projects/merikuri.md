@@ -1,0 +1,1 @@
+Merikuri is a Ghiblady Maker kin collection of 125 AI generative Christmas themed pfpNFTs with inspiration from Milady, Pixelady, and other Milady inspired projects

@@ -1,0 +1,1 @@
+Launchcaster is a place for sharing and discovering new Web3 projects, built on Farcaster, a decentralized social network.

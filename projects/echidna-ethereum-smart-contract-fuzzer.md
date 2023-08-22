@@ -1,0 +1,1 @@
+Ethereum smart contract fuzzer. Contribute to crytic/echidna development by creating an account on GitHub.

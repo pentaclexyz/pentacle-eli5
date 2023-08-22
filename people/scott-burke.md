@@ -1,0 +1,1 @@
+Ethereum, DeFi, NFTs, memetics. @PleasrDAO✨ and others 🎤 rap/comedy alter ego @scottissexy 🛠️ building @tryGift3

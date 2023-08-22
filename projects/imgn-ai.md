@@ -1,0 +1,1 @@
+imgnAI is building the future of user-generated AI. imgnAI brings you Nai, the first anime focused Telegram bot that lets you create your own masterpiece using any command in your Telegram group

@@ -1,0 +1,1 @@
+Nifty Ink is a platform that combines a lot of meta transactions, burner wallets, side chains, and bridges to create a Web2 like experience that “upgrades” to the Ethereum mainnet. This enables NFTs to be uploaded onto the Ethereum mainnet with little expense

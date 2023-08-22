@@ -1,0 +1,1 @@
+zk research and security auditing  Previously: Protocol Lead @ Element/Delv, ZKP/L2 R&D @ 0x, and pure math research

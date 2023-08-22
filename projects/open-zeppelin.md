@@ -1,0 +1,1 @@
+Open Zeppelin provides security products to build, automate, and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products.

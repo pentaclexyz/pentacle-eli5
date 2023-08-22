@@ -1,0 +1,1 @@
+More than a web3 angel collective, Daedalus is founders helping founders

@@ -1,0 +1,1 @@
+Squeeth is a new financial primitive in DeFi that gives traders exposure to ETH²

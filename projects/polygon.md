@@ -1,0 +1,1 @@
+Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks

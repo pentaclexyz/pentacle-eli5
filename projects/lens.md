@@ -1,0 +1,3 @@
+The Lens Protocol is a Web3 social graph on the Polygon Proof-of-Stake blockchain. It is designed to empower creators to own the links between themselves and their community, forming a fully composable, user-owned social graph. 
+
+The protocol is built from the ground up with modularity in mind, allowing new features and fixes to be added while ensuring immutable user-owned content and social relationships.

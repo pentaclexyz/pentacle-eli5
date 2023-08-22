@@ -1,0 +1,1 @@
+Non-fungible human. Co-founder and CEO @opensea, the largest NFT marketplace. @YCombinator alum, previously eng @Pinterest and @CreditKarma

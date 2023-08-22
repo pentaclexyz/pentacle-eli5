@@ -1,0 +1,1 @@
+southern fried degen. ❤️ DAOs, defi & nfts. PR class of '21 @barn_bridge @universe_xyz @leaguedao @enterdao @fiatdao @q_dot_xyz @d64vc

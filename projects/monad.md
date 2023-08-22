@@ -1,0 +1,1 @@
+Monad brings asynchronous, parallel execution to EVM transactions.

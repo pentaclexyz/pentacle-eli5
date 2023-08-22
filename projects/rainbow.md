@@ -1,0 +1,1 @@
+If you haven’t gotten started with crypto or Ethereum yet, download Rainbow today and start exploring!

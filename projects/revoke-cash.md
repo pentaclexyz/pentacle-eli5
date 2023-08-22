@@ -1,0 +1,1 @@
+When using dapps like Uniswap or OpenSea you have to grant them permission to spend your tokens and NFTs. This is called an allowance. If you don't revoke these allowances, the dapp can spend your tokens forever. Take back control by revoking your allowances.

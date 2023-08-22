@@ -1,0 +1,1 @@
+Art Blocks Curated is the most strictly curated offering in the Art Blocks product suite. Submissions are made by individual artists or collaborations and approved by the curation board before they go live. These highly innovative releases by renowned artists reflect astounding beauty and innovation both artistically and technically.

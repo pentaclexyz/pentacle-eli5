@@ -1,0 +1,1 @@
+DAOs will eat the world. Governance @ 🔥_🔥. 🌶 @meta_cartel 🧙‍♂️ @VENTURE_DAO ✨ @PleasrDAO Digital Art @ https://t.co/0O9IPxTNjY

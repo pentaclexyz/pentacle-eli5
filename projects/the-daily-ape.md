@@ -1,0 +1,1 @@
+The Daily Ape is your resource for all things degen. This free, resource-driven Telegram group aggregates the top tweets, stories and developments from established and rising projects and shares them in a daily update to stay informed on the latest progressions in DeFi and beyond.

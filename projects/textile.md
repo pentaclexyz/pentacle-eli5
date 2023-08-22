@@ -1,0 +1,1 @@
+Textile's mission is to accelerate the exchange of information across society.

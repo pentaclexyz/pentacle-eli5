@@ -1,0 +1,1 @@
+Co-Founder @Panoptic_xyz • Ph.D. @cornell • ex-Quant • ⛓🌲 https://t.co/8HhUFT34OG • ✍ https://t.co/L2Lv3KURu5 (top 3 @amazon) •  @RareSkills_io • 🇩🇰🇺🇸🐇

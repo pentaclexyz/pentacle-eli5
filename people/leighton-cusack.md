@@ -1,0 +1,1 @@
+Contributor to DeFi, co-founder of PoolTogether Inc. Also @pleasrdao @poolynft

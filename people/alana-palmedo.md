@@ -1,0 +1,1 @@
+Managing Partner and the Chief Operating Officer of Paradigm overseeing firm management.

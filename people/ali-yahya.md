@@ -1,0 +1,1 @@
+General Partner @a16zcrypto. Previously Google Brain, GoogleX, @Stanford Computer Science

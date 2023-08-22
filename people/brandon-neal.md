@@ -1,0 +1,1 @@
+COO at Euler Labs @eulerfinance; Board @ahrvonetwork; IAM Vice Chair @CFANewYork; @NewYorkFed alum. Into kindness,🌎liberalism, DeFi, markets, macroecon🇺🇦🇹🇼

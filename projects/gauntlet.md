@@ -1,0 +1,1 @@
+Gauntlet is a financial modelling platform that uses battle-tested techniques from the algorithmic trading industry to inform on-chain protocol management.

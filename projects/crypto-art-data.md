@@ -1,0 +1,1 @@
+Crypto Art Data is a platform that aggregates multiple datasets and creates indicators about the NFT space. As well as this, it also showcases some of the most expensive NFTs across multiple platforms

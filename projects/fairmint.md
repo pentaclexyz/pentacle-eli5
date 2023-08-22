@@ -1,0 +1,1 @@
+With Fairmint, founders can launch a continuous securities offering based on a fixed percentage of their company's equity. Such offerings enable stakeholders to buy and earn convertible securities at any single time, directly from the company's website.

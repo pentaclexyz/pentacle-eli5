@@ -1,0 +1,1 @@
+L2-First stablecoin protocol on Arbitrum. Vesta Finance allows you to borrow collateralized stablecoin VST against supported crypto assets with low interest rate.

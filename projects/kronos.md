@@ -1,0 +1,1 @@
+Kronos Research is a leading cryptocurrency trading, market making, and venture investment firm.

@@ -1,0 +1,1 @@
+0xmons are scarce, digital collectibles that live on the Ethereum blockchain. They are inspired by a mix of Pokemon, SCP, and Lovecraft.

@@ -1,0 +1,1 @@
+Decentralised Perpetual Exchange. Trade BTC, ETH, AVAX and more with up to 50x leverage directly from your wallet

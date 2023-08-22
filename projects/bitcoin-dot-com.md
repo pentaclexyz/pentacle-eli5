@@ -1,0 +1,1 @@
+Use the mobile and web-enabled platform to access all Bitcoin.com products and services: buy, sell, trade, earn, use, and learn crypto. At the heart of the App is a multi-chain, web3 wallet that enables you to take control of your crypto and use it however you wish.

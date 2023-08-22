@@ -1,0 +1,1 @@
+Head of OTC Options Trading @krakenfx. past: LX co-founder & COO; GS trader; MIT math. views are my own

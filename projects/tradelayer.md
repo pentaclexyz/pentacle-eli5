@@ -1,0 +1,1 @@
+TradeLayer supports issued tokens with whitelists and native synthetic tokens, these can all trade against the UTXO currency of the chain (BTC, LTC, DOGE). Oracle derivatives can be created using any token as collateral. Native derivatives support the decentralized synthetic dollars and hedging markets for Fees and Difficulty.

@@ -1,0 +1,1 @@
+a farcaster client with community created feeds and plugins

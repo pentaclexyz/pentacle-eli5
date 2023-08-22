@@ -1,0 +1,1 @@
+devpill.me is a public good blockchain development guide aimed at becoming the go-to learning resource aggregator for building on Ethereum and its wider ecosystem of scaling solutions and applications.

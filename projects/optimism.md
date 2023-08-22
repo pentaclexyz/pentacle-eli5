@@ -1,0 +1,1 @@
+Optimism is a low-cost and lightning-fast Ethereum L2 blockchain.

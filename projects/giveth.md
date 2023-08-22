@@ -1,0 +1,1 @@
+Get rewarded for giving to for-good projects with zero added fees. Giveth's ntention is to support and reward the funding of public goods by creating open, transparent and free access to the revolutionary funding opportunities available within the Ethereum ecosystem

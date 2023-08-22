@@ -1,0 +1,1 @@
+ZEC & ICP since $1k | @egirl_capital intern | top 5 Degen Score | I don't ever DM for money

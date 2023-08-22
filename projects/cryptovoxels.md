@@ -1,0 +1,1 @@
+Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain. Players can buy land and build stores and art galleries. Editing tools, avatars and text chat are built in.

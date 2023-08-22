@@ -1,0 +1,1 @@
+DeFi is fragmented. Siloed liquidity, data and financial primitives cause poor user experience. We address these challenges to create a new financial reality - bringing DeFi and TradFi together.

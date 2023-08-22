@@ -1,0 +1,1 @@
+Olympus is building OHM, a community-owned, decentralized and censorship-resistant reserve currency that is deeply liquid, asset-backed, and used widely across Web3.

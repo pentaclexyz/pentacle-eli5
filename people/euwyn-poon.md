@@ -1,0 +1,1 @@
+https://t.co/2iYmhFYLZl co-founder @ridespin (acq'd @ford), @ycombinator (S10, W15) @cornell @pleasrdao

@@ -1,0 +1,1 @@
+Trust Wallet is a multi-functional wallet platform that lets users buy, store, collect NFTs as well as exchange assets between eachother. Over 160k supported coins.

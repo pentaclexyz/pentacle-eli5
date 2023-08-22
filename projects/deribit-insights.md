@@ -1,0 +1,1 @@
+Deribit Insights (subsidiary of Deribit Exchange) is a journalistic platform that keeps its audience up to date with the lastest events happening in the cryptocurrency space.

@@ -1,0 +1,1 @@
+A beautiful, smart and dynamic wallet login flow that just works. Dynamic is your multi-chain wallet-based authentication and authorization platform.

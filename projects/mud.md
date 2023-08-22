@@ -1,0 +1,1 @@
+An engine for autonomous worlds. MUD aims to solve all the hard problems of building on-chain games. It is open source and built with composability and interoperability in mind.

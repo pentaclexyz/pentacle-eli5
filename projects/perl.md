@@ -1,0 +1,1 @@
+Perl is a treasure hunt for people to collect pearls of wisdom from the internet. Starting as a social bookmarking app where tasteful curators are rewarded by reputation points, we aim to make this pool of bite-sized wisdom more searchable and interactive as we evolve it.

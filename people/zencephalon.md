@@ -1,0 +1,1 @@
+Poly-unsaturated 💞 psychedelic 🍄 ethereum-based 🦇🔊 meditating 🪷 ninja 🥷 Engineer at @PleasrDAO, helped start @Ukraine_DAO, @FreeRossDAO

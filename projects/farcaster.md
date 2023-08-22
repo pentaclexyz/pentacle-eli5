@@ -1,0 +1,1 @@
+Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email.

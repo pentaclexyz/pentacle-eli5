@@ -1,0 +1,1 @@
+Nexus Mutual protocol and token can be used to buy insurance cover, vote on governance decisions, and participate in Risk and Claims Assessments. It is also used to encourage capital provision and represents ownership to the mutual’s capital. As the mutual’s capital pool increases, the value of NXM will increase as well. 

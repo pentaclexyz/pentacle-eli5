@@ -1,0 +1,1 @@
+Fantom is a fast, high-throughput open-source smart contract platform for digital assets and dApps.

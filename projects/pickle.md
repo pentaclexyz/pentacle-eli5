@@ -1,0 +1,1 @@
+Pickle Finance is a yield aggregator. It aggregates and compounds yield from other protocols which will save you time and money compared to doing it yourself.

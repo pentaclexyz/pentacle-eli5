@@ -1,0 +1,1 @@
+We are a team of artists, developers, gamers, and creators exploring new ways to build worlds as well as the narratives and experiences that enrich them. We know making and sharing (stories, art, games) is never easy, but it could be simple, equitable, and fun.

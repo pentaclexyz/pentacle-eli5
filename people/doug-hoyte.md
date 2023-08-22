@@ -1,0 +1,1 @@
+Doug is a programmer, author, and teacher specialising in network security and financial applications. He appreciates well-designed systems, efficient code, and simple solutions.

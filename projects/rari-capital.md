@@ -1,0 +1,1 @@
+Rari Capital is a suite of decentralized finance protocols on a mission to bridge the gap between technical and non-technical minds in order to bring the next wave of mass users into this industry. We have built a series of products that create and deliver aggregate yield allowing you a simple and safe avenue of value-accrual to your existing assets.

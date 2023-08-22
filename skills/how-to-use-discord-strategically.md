@@ -1,0 +1,13 @@
+While much of the discussion around crypto comes from Crypto Twitter, a large number of projects and teams utilize the social messaging app Discord to communicate privately. But what is Discord, how can you use it effectively in crypto and what are some of its benefits?
+
+Discord is a communications app, allowing for both text and voice options similar to applications like Telegram or Skype. Used primarily by gaming communities and friend groups, Discord has allowed for coordination of users like never before. Create a Discord server, invite some friends and establish channels - just like that, you’ve set up a “home base” for you and your community.
+
+In crypto, there are a myriad of different communities, whether it be a DAO structure, trading group or team behind a novel DeFi protocol, there’s always a reason to group together. With Discord, this is easy. Creating a Discord server is a huge step up from simply congregating in a Twitter DM. Within your Discord server, moderators can assign roles and create different channels with specific purposes. This could be a channel for the backend developers of a project or a server for the community managers - this level of composability makes operating autonomously even easier. 
+
+A major tenet of crypto is decentralization. Where centralized entities and corporations have failed us, those venturing into Web3 have made it their goal to do better and govern themselves more efficiently. Through ease of communication on apps like Discord, crypto as a whole is able to function smoothly and maintain its youthful spirit. Those who operate strictly within the world of Web3 know that email chains are dead - everything interesting happens on Discord and Twitter.
+
+If you’re new to this, you can start by creating a Discord account. The good part is you don’t even have to use your real identity if you wish to do so. Many in the crypto space operate anonymously - something that the community sees no issue with. Once you’re in, you can easily find communities that fit your interest, whether you search on Crypto Twitter or YouTube. 
+
+Every Discord server has its own unique set of rules, so it’s important to pay attention to the laws of the land whenever you end up somewhere new. Most users are friendly, so while it can be overwhelming on a new server, simply ask for help and your new community will be happy to help you. 
+
+As the world transitions to a more remote existence, Discord will only grow in popularity. It’s important to try and understand it now, so by the time you have to catch that job interview in the metaverse, you’re ready to go!

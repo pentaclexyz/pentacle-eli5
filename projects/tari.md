@@ -1,0 +1,1 @@
+Tari enables creators to design new types of stories and experiences. Someday a mesmerizing and digitally scarce asset or collectible you covet will unlock new business opportunities for the creator and a new world of possibilities for you. This asset will be issued on Tari. Tari is built in Rust, private by default, and open source.

@@ -1,0 +1,1 @@
+Our mission is to have fun, share alpha, and build the decentralized future with friends.

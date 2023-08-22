@@ -1,0 +1,1 @@
+Jack previously worked as a web developer for Salary Finance, Fintricity, Qadre, Bought By Many, Discovery Education, and Havas/DBI.

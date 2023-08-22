@@ -1,0 +1,3 @@
+Alchemix Finance is a DeFi protocol that allows people to create yield-backed synthetic tokens in exchange for providing their cryptocurrencies as collateral. Visitors can for example deposit their DAI into the protocol, and receive (a lesser amount of) alUSD tokens, equally pegged to $1. 
+
+The protocol uses the collateral provided by its visitors to collect yield and dynamically repay the depositors' debt, essentially giving its users an immediate claim on the future yield of their tokens. The protocols native token is ALCX, used to govern the development and directional decisions of Alchemix.

@@ -1,0 +1,1 @@
+CowSwap is the first trading interface built on top of Gnosis Protocol v2. CowSwap is a Meta DEX aggregator that allows you to trade with MEV protection.

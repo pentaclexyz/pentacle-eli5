@@ -1,0 +1,1 @@
+Shamba provides the data and tools to build parametric real-world decentralized applications. Whether your application is crop insurance, carbon markets or ESG projects, we provide what you need to power it.

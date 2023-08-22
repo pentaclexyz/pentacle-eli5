@@ -1,0 +1,1 @@
+Hegic is a decentralized on-chain protocol which allows users to purchase American call and put options on Ether (ETH) and Wrapped Bitcoin (WBTC). They may also choose to act as liquidity providers.

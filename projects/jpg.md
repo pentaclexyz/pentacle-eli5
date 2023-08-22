@@ -1,0 +1,1 @@
+Juried Protocol Galleries (JPG) brings together curators, collectors, and artists through a registry-based protocol focused on curation. NFT owners and curators contribute to an open, community-generated collection and a network of galleries.

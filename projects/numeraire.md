@@ -1,0 +1,1 @@
+The hardest data science tournament on the planet. Build the world's last hedge fund by predicting the stock market.

@@ -1,0 +1,3 @@
+Ethereum Classic, despite having no central organizing committee, has managed to attract many kinds of participants at various points in time who have come and gone and all contributed and shaped it in their own way. 
+
+ETC's greatest strength lies in its philosophy and principles, which can be spread even without billions of dollars of marketing because their value is self-evident, and bright minds gravitate toward them.

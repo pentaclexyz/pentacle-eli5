@@ -1,0 +1,1 @@
+YCombinator is an American technology startup accelerator launched in March 2005. It has been used to launch more than 3,000 companies, including Airbnb, Coinbase, Cruise, DoorDash, Dropbox, Instacart, Quora, PagerDuty, Reddit, Stripe and Twitch

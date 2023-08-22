@@ -1,0 +1,3 @@
+Surprise free mint offered directly from contract, featuring Milady in a bootleg english t-shirt each spelling out B-I-T-C-H with random words.
+
+Words used for the random generation were sourced from cultural critic Angelicism01's essay on Milady, "NO MILADY NFTS, NOT NOW" with Chief Keef's "Finally Rich", and Chief Keef's "Kush with them Beans," as a playful and irreverent response to the environmental and capitalist criticisms made in Angelicism01's review, as a commentary on the inevitable cultural subsumption process of capitalism.
