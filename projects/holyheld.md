@@ -1,10 +1,10 @@
 ### What
 
-Holyheld is a debit card that you connect to your crypto wallet(s). It allows you to spend the funds in your wallet(s) at the shops and online – just as you would use a regular bank debit card. You can pay from your phone, and one day (soon) you may be able to order a metal card. 
+Holyheld is a debit card that you connect to your crypto wallet(s). It allows you to spend the funds in your wallet(s) at the shops and online – just as you would use a regular bank debit card. You can pay from your phone, and one day (soon) you may be able to order a shiny metal card. 
 
 ### Why
 
-Being able to spend your crypto straight from your crypto wallet via a debit card saves a bunch of pfaffing around that you'd traditionally take using a fiat offramp. 
+Being able to spend your crypto straight from your crypto wallet via a debit card saves a bunch of steps that you'd traditionally take using a fiat offramp. 
 
 
 ### Risk
