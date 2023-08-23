@@ -18,4 +18,4 @@ Cybersecurity risk - Hackers, Exploiters or other malicious actors trying to att
 
 ### Reward
 
-Uniswap is argaably one of the largest AMMs in crypto and is usually the protocol where tokens find the most liquidity. Its UI/UX is extremely simple and users can trade most tokens with little problems.   
+Uniswap is arguably one of the largest AMMs in crypto and is usually the protocol where tokens find the most liquidity. Its UI/UX is extremely simple and users can trade most tokens with little problems.   
