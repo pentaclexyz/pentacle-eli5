@@ -1,1 +1,0 @@
-Co-founder @redactedcartel

@@ -1,1 +1,0 @@
-Head of Taking Risk at Euler Labs
