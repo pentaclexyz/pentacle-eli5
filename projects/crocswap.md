@@ -1,1 +1,0 @@
-An entirely new category of decentralized exchange. An original protocol developed from scratch. Not just a DEX, but a Single Contract DEX. Faster, cheaper, easier, and more efficient than anything that came before.
