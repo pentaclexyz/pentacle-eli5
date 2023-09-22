@@ -1,0 +1,24 @@
+### What
+
+Layer 2 (L2) is a collective term to describe various types of scaling solutions for the base blockchains or Layer 1s (L1). A Layer 2 is a separate blockchain that extends their native L1 and inherits the security guarantees of it. Examples of Layer 2s are the Lightning Network for Bitcoin, and the numerous "rollups" for Ethereum such as Optimistic Rollups and Zero-Knowledge Rollups.
+
+Blockchain systems offer great technological benefits for money transfers and record-keeping in general; the main properties most often considered are decentralisation, trust– and permissionlessness, censorship resistance and immutability. These desired properties of decentralised networks come at the cost of limited throughput, however. Scaling solutions to blockchains are an advanced topic with much ongoing research and development. The technical descriptions and differences between each is beyond the scope of this explainer, but they are well worth researching for the curious. 
+
+### Why
+
+Layer 2s can make blockchain networks cheaper, faster, and therefore more useful for more people.
+
+Even the most prominent networks of today, Bitcoin and Ethereum are only able to handle a fairly limited amount of transactions in a given time period; an average BTC transfer takes about 10 minutes, and while it usually only takes some seconds in the Ethereum network, some interactions with Ethereum dApps can cost hundreds of dollars in gas fees during congested times. 
+
+### Risk
+
+Layer 2 projects contain additional risks compared to holding funds and transacting directly on Ethereum Mainnet. For instance, sequencers may go down, leading you to have to wait to access funds.
+
+In addition, getting funds from an L1 base layer to an L2 typically involves a bridging process - this transaction can be costly and take some time, depending on the particular implementation. It is advisable to test with a small transaction first, to make sure the software works in the expected way, and to familiarise ourselves with the process, as it can sometimes be unclear.
+
+Blockchain bridges, which facilitate asset transfers to layer 2, are in their early stages of development and like any new technology, there is still testing to be done before the best approach is found. In the past years there have been various hacks of bridges which ahve put the funds of users at risk. 
+
+
+### Reward
+
+The main benefit of using Layer 2s is lower fees and/or improved speed. On top of this, early adapters of new scaling networks can be rewarded by receiving tokens for their bravery from network and app developers, as a bonus.
