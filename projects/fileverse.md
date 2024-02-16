@@ -1,1 +1,1 @@
-File sharing between blockchain addresses. Token gate, don't google drive. For Web3 communities, frens & anons.
+Your onchain space for collaboration and productivity. Use it to create knowledge-bases, portfolios, write docs, sketch ideas, share files, make a public webpage, and more - individually or as a group.
