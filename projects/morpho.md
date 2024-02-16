@@ -1,5 +1,3 @@
-### What
-
 Morpho Blue is a decentralized protocol enabling the overcollateralized lending and borrowing of crypto assets (ERC20 Tokens) on the Ethereum Virtual Machine. The protocol is implemented as an immutable smart contract, engineered to serve as a trustless base layer for lenders, borrowers, and applications.
 
 Morpho Blue is licensed under a dual license (BUSL-1.1 and GPLv2) which you can find [here](https://github.com/morpho-org/morpho-blue/blob/main/LICENSE). Once deployed, Morpho Blue will function in perpetuity, provided the existence of the Ethereum blockchain.
