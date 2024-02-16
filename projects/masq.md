@@ -1,4 +1,3 @@
-### What
 MASQ is a dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private.
 MASQ makes it easy for you to access the truly global internet and web3 dApps with our cutting-edge decentralized privacy network and Web3 Browser!
 The MASQ Network delivers borderless browsing to its users through encrypted peer networking - all working on top of the normal internet without special hardware - by pooling together everyone's internet connections from around the world in a mesh network structure to create a truly global internet.
@@ -14,18 +13,3 @@ MASQ Network operates at a security level above VPN, and all traffic is encrypte
 
 ### Reward
 By sharing your internet bandwidth to the MASQ Network, you gain tokens from peers who are securely accessing the clear web from your region of the world - in the most simplest sense you share your digital freedom with those that need it and gain tokens from those users!
-
-
-
-Website: masqbrowser.com
-Discord: discord.gg/masq
-Blog: masqbrowser.com/blog
-YouTube: http://www.youtube.com/@MASQNetwork
-Dune Dashboard: https://dune.com/masq_network/masq-network-dashboard
-MASQ Activity Board (living roadmap) - https://masq-network.notion.site/4845dc5fc53e4f68825ed5ff7c633313?v=8659058cc3824f46a94bf9ddfa1ea765
-
-### Contribute Links:
-Giveth Page for donations to development: https://giveth.io/project/masq-network
-Contributors for our open source: 
-https://vsdofekru0q.typeform.com/to/bfI9tKNO
-
