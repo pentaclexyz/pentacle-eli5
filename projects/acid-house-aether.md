@@ -1,1 +1,0 @@
-The outsiders web3 community
