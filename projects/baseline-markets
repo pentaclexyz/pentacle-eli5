@@ -1,0 +1,3 @@
+Baseline Markets introduces a novel approach to liquidity in the crypto market, focusing on infinite, unruggable liquidity. The platform offers a mechanism that protects a token's price using protocol-owned liquidity, ensuring a baseline value that powers the entire protocol.
+
+This approach includes features like protection against price drops (Anti-Jeet Tech), perpetual price support (Up Only, Forever), borrowing options with no liquidation (Borrowing Built-in), and fair launch practices. For projects, Baseline promises a suite of tools for price protection, no-liquidation loans, and more, aiming to make liquidity management more secure and efficient.
