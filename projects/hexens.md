@@ -1,0 +1,1 @@
+Hexens is a cybersecurity consulting firm specializing in blockchain and DeFi projects. They offer a wide range of services, including smart contract audits, security advisory, and penetration testing, aiming to secure digital assets and data with a novel approach. Hexens is trusted by well-known organizations within the crypto space.
