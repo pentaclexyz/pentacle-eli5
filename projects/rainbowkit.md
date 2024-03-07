@@ -1,2 +1,1 @@
-The best way to connect a wallet
-Designed for everyone. Built for developers.
+RainbowKit is a developer tool designed to streamline the integration of wallet connectivity in Web3 applications. It offers a fast, customizable, and user-friendly solution for adding wallet experiences to apps, focusing on ease of installation, custom themes, and support for various chains. RainbowKit is utilized by leading Web3 teams to enhance their products and user satisfaction.
