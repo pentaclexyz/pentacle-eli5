@@ -1,3 +1,5 @@
-Cozy is an open-source protocol for automated and trust-minimized Protection Markets. 
+Cozy Finance is a DeFi platform offering protection products for users and liquidity providers against various risks in the cryptocurrency market. 
 
-Protection Markets allow you to provide and receive protection against predefined conditions like a loss of funds due to a smart contract hack. Anybody can create and use Protection Markets.
+It allows participants to either provide or purchase protection, aiming to mitigate the impacts of adverse market events or smart contract vulnerabilities. 
+
+Cozy Finance uses smart contracts to create a more secure and efficient environment for managing risk in DeFi investments.
