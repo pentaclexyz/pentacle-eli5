@@ -1,0 +1,2 @@
+CosmWasm is a smart contract platform that expands beyond the Cosmos ecosystem, designed for building multi-chain and powerful decentralized applications (dApps). Sponsored by ICF, it aims to enhance blockchain innovation by offering subscription plans filled with exclusive perks for developers. 
+CosmWasm supports a variety of major chains and projects, positioning itself as a key player in advancing blockchain technology and governance.
