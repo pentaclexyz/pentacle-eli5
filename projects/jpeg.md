@@ -1,1 +1,1 @@
-Bridging the gap between DeFi and NFTs.
+JPG is a platform focused on curating NFT exhibitions, enabling users to create or participate in co-curating NFT collections known as Canons. It positions itself as a curation layer for Web3, emphasizing community engagement in discovering and governing the Canons, which range across various themes and artistic expressions.
