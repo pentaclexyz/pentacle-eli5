@@ -1,11 +1,3 @@
-### What
-Base is built as an Ethereum L2 on the OP stack, with the security, stability, and scalability you need to power your dapps. Confidently deploy any EVM codebase and onramp your users and assets from Ethereum L1, Coinbase, and other interoperable chains.
+Base is a layer-2 blockchain built on top of Ethereum, designed to support a new wave of open internet applications. It's powered by Optimism and aims to create a sandbox for building apps, games, and digital assets, making Web3 accessible to everyone. 
 
-### Why
-Get the EVM environment at a fraction of the cost. Get early access to Ethereum features like Account Abstraction (ERC4337), simple developer APIs for gasless transactions, and smart contract wallets.
-
-### Risk
-Bridging your funds from Base back to mainnet can take up to 7 days. Find out more about [Base bridges](https://docs.base.org/tools/bridges/)
-
-### Reward
-Base’s rollup architecture reduces costs (vs using ethereum mainnet) by up to 10x for users.
+Base emphasizes simplicity, offering a low-cost, secure, and scalable environment for developers and users alike to explore and innovate within the blockchain space.
