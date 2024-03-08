@@ -1,5 +1,3 @@
-### What
-
 Uniswap is a decentralized exchange protocol (DEX). It allows people to set up or contribute to liquidity pools consisting of various ERC-20 token pairs, or to use the available liquidity to swap their tokens against another using its Automated Market Maker (AMM) mechanism. 
 
 

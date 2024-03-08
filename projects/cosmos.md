@@ -1,0 +1,3 @@
+Cosmos, known as the Internet of Blockchains, is a decentralized network of independent, scalable, and interoperable blockchains. It aims to solve the problems of scalability, usability, and interoperability in the blockchain space. Cosmos facilitates the development of blockchains that can transact and communicate with each other within a secure and standardized ecosystem, powered by its consensus model, Tendermint. 
+
+This approach allows for a wide range of applications, including decentralized finance (DeFi), token exchanges, and more, fostering a more interconnected and efficient blockchain landscape.

@@ -1,1 +1,1 @@
-We build trust in the blockchain ecosystem
+ChainSecurity, operational since 2017, is renowned for conducting smart contract audits, especially for high-profile DeFi protocols and Web3 projects. Their approach involves extensive quality assurance and in-depth investigations to uncover novel vulnerabilities, making them specialists in auditing complex and high-stakes smart contracts. Their client base includes notable names in the crypto space, underscoring their expertise and trustworthiness in ensuring blockchain security.

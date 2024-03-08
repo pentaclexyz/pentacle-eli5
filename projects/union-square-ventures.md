@@ -1,1 +1,1 @@
-Union Square Ventures is a thesis-driven venture capital firm.
+Union Square Ventures (USV) is a venture capital firm based in New York City, specializing in investing at the intersection of large markets undergoing transformation due to technological and societal shifts. They focus on early-stage companies that stand at the forefront of innovation across various sectors.

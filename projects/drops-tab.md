@@ -1,1 +1,3 @@
-DropsTab is a website providing real-time cryptocurrency market prices, capitalization, and charts. It features various tools and metrics for analyzing the crypto market, including top gainers, potential airdrops, token unlocks, and more. The platform aims to offer users comprehensive insights into the cryptocurrency market, assisting them in making informed investment decisions.
+DropsTab is a website providing real-time cryptocurrency market prices, capitalization, and charts. 
+
+It features various tools and metrics for analyzing the crypto market, including top gainers, potential airdrops, token unlocks, and more.

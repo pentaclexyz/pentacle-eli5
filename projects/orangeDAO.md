@@ -1,1 +1,1 @@
-Orange DAO exists to support past, present, and aspiring Y Combinator founders who are building the future of the crypto ecosystem
+Orange DAO is a collective of over 1,200 crypto founders, offering a Fellowship program to support startups in the crypto space. This program includes a $100k investment and a 2% program fee, aiming to connect and elevate promising teams in crypto by utilizing the network and expertise of its members.
