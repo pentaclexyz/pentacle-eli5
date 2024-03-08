@@ -1,2 +1,1 @@
-All your social credit in one place.
-Social-&-Earn (S&E) economy.
+TeaParty is a platform designed to foster social growth, enabling users to connect and grow together within a community-focused environment. It emphasizes collaboration and mutual support, providing a space for individuals and groups to share, interact, and enhance their social presence collectively. 

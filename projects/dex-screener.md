@@ -1,1 +1,1 @@
-DEX Screener is a platform that enables traders to visualise price action and chart exotic assets on multiple blockchains
+DexScreener is a tool that provides real-time analytics and trading signals for decentralized exchanges (DEXs) across various blockchain networks. As well as swaps, it offers users the ability to track liquidity pools, trading volumes, price movements, and other market data for a wide range of cryptocurrencies. This information is crucial for traders and investors looking to make informed decisions in the fast-moving DeFi space. 

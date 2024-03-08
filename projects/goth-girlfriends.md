@@ -1,1 +1,1 @@
-the ultimate fan club for alternative music and culture | one ticket to multiple events, forever
+Goth Girlfriends is an NFT project themed around gothic aesthetics, offering community engagement through irl events, Discord and Twitter. The ultimate fan club for alternative music and culture ~ one ticket to multiple events, forever.

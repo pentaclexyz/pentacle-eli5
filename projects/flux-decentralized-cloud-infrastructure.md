@@ -1,1 +1,2 @@
-Flux is the new generation of scalable decentralized cloud infrastructure. Simply develop, manage, and spawn your applications on multiple servers at once. Ready for Web 3.0, Dapps, Enterprise Cloud Infrastructure.
+
+Flux is a decentralized cloud infrastructure platform providing a suite of blockchain-as-a-service solutions. It aims to offer scalable and accessible computing resources, facilitating the development and operation of decentralized applications (dApps) and various blockchain functions. Flux's ecosystem is designed to support a wide range of use cases, including Web3 projects, by leveraging its native cryptocurrency for transactions within its network.

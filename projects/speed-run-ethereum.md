@@ -1,1 +1,1 @@
-Learn how to build on Ethereum; the superpowers and the gotchas.
+Speed Run Ethereum is designed as an educational platform aimed at accelerating one's understanding and development skills in the Ethereum blockchain ecosystem. It provides a structured pathway through various tutorials and challenges, focusing on smart contract development and Ethereum's foundational concepts. This platform is ideal for developers looking to dive deep into Ethereum's technology and build decentralized applications efficiently. 

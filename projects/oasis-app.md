@@ -1,1 +1,3 @@
-Deploy your crypto into DeFi. Earn a yield, Multiply your exposure or Borrow against your crypto. ETH, BTC and 30 more cryptos available to put to work.
+Summer.fi is a DeFi platform designed to optimize borrowing and earning experiences for users. It focuses on providing an efficient and user-friendly environment for engaging with decentralized finance, offering optimized strategies for earning interest on deposits and borrowing against assets. 
+
+The platform aims to facilitate access to DeFi opportunities, enhancing users' ability to manage their digital assets effectively. For more details, visit their website directl
