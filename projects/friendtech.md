@@ -1,5 +1,4 @@
-### What
-- Buy and trade tokens of your twitter "friends" onchain.
+Buy and trade tokens of your twitter "friends" onchain.
 
 ### Why
 - Owning a "key" (previously referred to as a "share") to a twitter friend allows you to talk to them and read their "alpha" in a private chat with other keyholders.
