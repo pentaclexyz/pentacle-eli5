@@ -1,5 +1,3 @@
-### What
-
 Ethereum is open access to digital money and data-friendly services for everyone – no matter your background or location. It's a community-built technology behind the cryptocurrency ether (ETH) and thousands of applications and smart contracts (computer programs living on Ethereum) you can use today. The Ethereum network is a network of computers all over the world that follow a set of rules called the Ethereum protocol, and it acts as the foundation for communities, applications, organizations and digital assets that anyone can build and use.
 
 Ethereum allows you to coordinate, make agreements or transfer digital assets directly with other people. You don't need to rely on intermediaries. And because no government or company has control over Ethereum it is impossible for anyone to stop you from receiving payments or using services on Ethereum. 
